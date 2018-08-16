@@ -1,0 +1,1206 @@
+﻿Log file open, 08/12/18 15:55:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MultiplayerTest
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1106987376) SRandInit(1106987376).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.401584
+LogD3D11RHI: Aftermath initialized
+LogConfig: Warning: Failed to saved backup for config[Compat]
+LogConfig: Warning: Failed to saved backup for config[Scalability]
+LogConfig: Warning: Failed to saved backup for config[Hardware]
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogConfig: Warning: Failed to saved backup for config[CodeLiteSourceCodeAccess]
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogConfig: Warning: Failed to saved backup for config[NullSourceCodeAccess]
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogConfig: Warning: Failed to saved backup for config[AudioCapture]
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogConfig: Warning: Failed to saved backup for config[MatineeToLevelSequence]
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogConfig: Warning: Failed to saved backup for config[OnlineSubsystem]
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogConfig: Warning: Failed to saved backup for config[ExampleDeviceProfileSelector]
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogConfig: Warning: Failed to saved backup for config[ProceduralMeshComponent]
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: E:/Tournament/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.12-07.55.50:943][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.12-07.55.50:944][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.12-07.55.51:069][  0]LogInit: Computer: KONSTANTIN-ПК
+[2018.08.12-07.55.51:069][  0]LogInit: User: Konstantin
+[2018.08.12-07.55.51:069][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.12-07.55.51:069][  0]LogInit: High frequency timer resolution =3.020537 MHz
+[2018.08.12-07.55.51:070][  0]LogMemory: Memory total: Physical=6.0GB (6GB approx)
+[2018.08.12-07.55.51:070][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.12-07.55.51:070][  0]LogMemory: Process Physical Memory: 279.27 MB used, 279.27 MB peak
+[2018.08.12-07.55.51:070][  0]LogMemory: Process Virtual Memory: 276.74 MB used, 276.74 MB peak
+[2018.08.12-07.55.51:070][  0]LogMemory: Physical Memory: 4408.21 MB used,  1699.67 MB free, 6107.88 MB total
+[2018.08.12-07.55.51:070][  0]LogMemory: Virtual Memory: 657.77 MB used,  1699.67 MB free, 8388608.00 MB total
+[2018.08.12-07.55.56:053][  0]LogInit: Using OS detected language (ru-RU).
+[2018.08.12-07.55.56:053][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.08.12-07.55.56:880][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.08.12-07.55.56:880][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.08.12-07.56.03:881][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.12-07.56.04:282][  0]LogD3D11RHI:    0. 'AMD Radeon HD 6670' (Feature Level 11_0)
+[2018.08.12-07.56.04:282][  0]LogD3D11RHI:       1010/0/2797 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.08.12-07.56.04:282][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.12-07.56.04:288][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.12-07.56.04:288][  0]LogD3D11RHI:     GPU DeviceId: 0x6758 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.12-07.56.04:288][  0]LogWindows: EnumDisplayDevices:
+[2018.08.12-07.56.04:361][  0]LogWindows:    0. 'AMD Radeon HD 6670' (P:1 D:1)
+[2018.08.12-07.56.04:362][  0]LogWindows:    1. 'AMD Radeon HD 6670' (P:0 D:0)
+[2018.08.12-07.56.04:362][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2018.08.12-07.56.04:363][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.08.12-07.56.04:363][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.08.12-07.56.04:363][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2018.08.12-07.56.04:363][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 6670
+[2018.08.12-07.56.04:363][  0]LogD3D11RHI:   Driver Version: Catalyst 15.7.1 (internal:15.200.1062.1004, unified:15.200.1062.1004)
+[2018.08.12-07.56.04:363][  0]LogD3D11RHI:      Driver Date: 8-3-2015
+[2018.08.12-07.56.04:363][  0]LogRHI: Texture pool is 707 MB (70% of 1010 MB)
+[2018.08.12-07.56.04:577][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.08.12-07.56.04:584][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.12-07.56.04:601][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 2)
+[2018.08.12-07.56.04:639][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/Shaders/WorkingDirectory/3872/).
+[2018.08.12-07.56.04:661][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Konstantin/AppData/Local/Temp/UnrealShaderWorkingDir/1569D73F453434F5914349A8D7A84EEF/'.
+[2018.08.12-07.56.04:661][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.12-07.56.09:147][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.12-07.56.09:206][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.12-07.56.09:268][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.12-07.56.09:324][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.12-07.56.09:424][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.12-07.56.09:485][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.12-07.56.09:536][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.12-07.56.09:589][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.12-07.56.09:635][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.12-07.56.09:735][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.12-07.56.09:788][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.12-07.56.09:840][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.12-07.56.09:892][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.12-07.56.09:962][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.12-07.56.10:020][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.12-07.56.10:134][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.12-07.56.10:134][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.12-07.56.10:171][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.12-07.56.10:365][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.12-07.56.10:393][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.12-07.56.10:478][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.12-07.56.10:545][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.12-07.56.10:597][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.12-07.56.10:649][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.12-07.56.10:649][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.12-07.56.11:712][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.12-07.56.13:093][  0]LogDerivedDataCache: Loaded boot cache 1.36s 107MB C:/Users/Konstantin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.08.12-07.56.13:093][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Konstantin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.08.12-07.56.13:093][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.12-07.56.13:093][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.12-07.56.13:093][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.12-07.56.13:093][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.12-07.56.13:179][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.12-07.56.13:190][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Konstantin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.12-07.56.13:204][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.12-07.56.13:204][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.12-07.56.13:270][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.12-07.56.13:270][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.12-07.56.16:143][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2018.08.12-07.56.17:553][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.12-07.56.17:557][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.08.12-07.56.18:103][  0]LogConfig: Warning: Failed to saved backup for config[TemplateDefs]
+[2018.08.12-07.56.19:660][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.12-07.56.19:783][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.12-07.56.19:783][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.12-07.56.19:783][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.12-07.56.19:784][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.12-07.56.19:784][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.12-07.56.24:309][  0]LogNetVersion: MultiplayerTest , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1647500180)
+[2018.08.12-07.56.25:626][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.08.12-07.56.26:126][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.08.12-07.56.26:626][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.08.12-07.56.27:126][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.08.12-07.56.27:626][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.08.12-07.56.28:126][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.08.12-07.56.28:626][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.08.12-07.56.29:126][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.08.12-07.56.29:626][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.08.12-07.56.30:126][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.08.12-07.56.30:626][  0]LogFileManager: Error: Error moving file '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/AssetRegistryCache/1f683343.bin'.
+[2018.08.12-07.56.30:628][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 5.187681 seconds
+[2018.08.12-07.56.30:635][  0]LogUObjectArray: 35832 objects as part of root set at end of initial load.
+[2018.08.12-07.56.30:635][  0]LogUObjectAllocator: 7742872 out of 0 bytes used by permanent object pool.
+[2018.08.12-07.56.30:635][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.12-07.56.53:512][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.12-07.56.53:571][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.12-07.56.54:581][  0]LogConfig: Warning: Failed to saved backup for config[TranslationPickerSettings]
+[2018.08.12-07.56.54:951][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.08.12-07.56.55:800][  0]LogConfig: Warning: Failed to saved backup for config[SourceControlSettings]
+[2018.08.12-07.56.55:801][  0]SourceControl: Source control is disabled
+[2018.08.12-07.56.58:841][  0]LogOcInput: OculusInput pre-init called
+[2018.08.12-07.56.59:419][  0]LogEngine: Initializing Engine...
+[2018.08.12-07.56.59:421][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.12-07.57.00:601][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.12-07.57.00:601][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.12-07.57.00:771][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.12-07.57.01:132][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.12-07.57.01:484][  0]LogInit: FAudioDevice initialized.
+[2018.08.12-07.57.02:034][  0]LogDerivedDataCache: Saved boot cache 0.55s 107MB C:/Users/Konstantin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.08.12-07.57.02:058][  0]LogInit: Texture streaming: Enabled
+[2018.08.12-07.57.02:188][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.12-07.57.02:451][  0]LogInit: Transaction tracking system initialized
+[2018.08.12-07.57.03:006][  0]BlueprintLog: New page: Editor Load
+[2018.08.12-07.57.04:759][  0]LocalizationService: Localization service is disabled
+[2018.08.12-07.57.06:185][  0]LogConsoleResponse: Display: 
+[2018.08.12-07.57.08:290][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.12-07.57.08:291][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.12-07.57.08:291][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.12-07.57.09:391][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/' took 0.03s
+[2018.08.12-07.57.11:608][  0]Cmd: MAP LOAD FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.12-07.57.11:639][  0]LightingResults: New page: Lighting Build
+[2018.08.12-07.57.11:679][  0]MapCheck: New page: Map Check
+[2018.08.12-07.57.11:679][  0]LightingResults: New page: Lighting Build
+[2018.08.12-07.57.28:037][  0]LogAIModule: Creating AISystem for world Menu
+[2018.08.12-07.57.28:038][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.12-07.57.28:058][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.12-07.57.28:126][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.72ms to complete.
+[2018.08.12-07.57.28:126][  0]LogFileHelpers: Loading map 'Menu' took 16.517
+[2018.08.12-07.57.28:866][  0]LogCollectionManager: Loaded 0 collections in 0.002297 seconds
+[2018.08.12-07.57.28:923][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Collections/' took 0.01s
+[2018.08.12-07.57.28:923][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Developers/Konstantin/Collections/' took 0.00s
+[2018.08.12-07.57.28:923][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Collections/' took 0.00s
+[2018.08.12-07.57.28:923][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2018.08.12-07.57.28:934][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2408 classes and 503 folders.
+[2018.08.12-07.57.29:036][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0236 seconds. Added 0 classes and 0 folders.
+[2018.08.12-07.57.29:933][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.08.12-07.57.30:034][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2018.08.12-07.57.30:247][  0]LogSlate: Took 0.052785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.12-07.57.30:254][  0]LogSlate: Took 0.004697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.12-07.57.30:277][  0]LogSlate: Took 0.016993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.12-07.57.30:618][  0]LogRenderer: Reallocating scene render targets to support 1120x572 Format 9 NumSamples 1 (Frame:1).
+[2018.08.12-07.57.31:368][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.08.12-07.57.31:369][  0]LogLoad: (Engine Initialization) Total time: 148.00 seconds
+[2018.08.12-07.57.31:369][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.12-07.57.31:369][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.08.12-07.57.31:369][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.08.12-07.57.31:732][  0]SourceControl: On branch master
+[2018.08.12-07.57.31:732][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.08.12-07.57.31:732][  0]SourceControl: Changes to be committed:
+[2018.08.12-07.57.31:732][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.08.12-07.57.31:732][  0]SourceControl: 	new file:   Content/Blueprints/Gameplay/Builds/SoldierBarracks.uasset
+[2018.08.12-07.57.31:732][  0]SourceControl: 	new file:   Content/Blueprints/Gameplay/Pawns/Soldier/Soldier1D.uasset
+[2018.08.12-07.57.31:732][  0]SourceControl: 	new file:   Content/Blueprints/Gameplay/Pawns/Soldier/SoldierAB.uasset
+[2018.08.12-07.57.31:732][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Pawns/Suicide/NewBlendSpace1D.uasset
+[2018.08.12-07.57.31:732][  0]SourceControl: 	new file:   Content/Blueprints/Gameplay/Pawns/Suicide/Suicide.uasset
+[2018.08.12-07.57.31:732][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Pawns/Suicide/SuicideSoldier.uasset
+[2018.08.12-07.57.31:732][  0]SourceControl: 	new file:   Content/Blueprints/Gameplay/Pawns/Suicide/SuicideSpace1D.uasset
+[2018.08.12-07.57.31:732][  0]SourceControl: 	new file:   Content/VisualAssets/Enemy/Enemy_Gruntling_Scud/Enemy_Gruntling_Scud_Animation/ExoGame_Gruntling_Attack.uasset
+[2018.08.12-07.57.31:732][  0]SourceControl: 	new file:   Content/VisualAssets/Enemy/Enemy_Gruntling_Scud/Enemy_Gruntling_Scud_Animation/SK_Gruntling_Scud_Skeleton_Attack.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	new file:   Content/VisualAssets/Enemy/Enemy_Gruntling_Scud/SK_Gruntling_Scud_Skeleton_Sequence.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: Changes not staged for commit:
+[2018.08.12-07.57.31:733][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.08.12-07.57.31:733][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.08.12-07.57.31:733][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Builds/Barracs.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Builds/MainBuld.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Builds/SoldierBarracks.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Builds/Tower.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/PawnCamera.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Pawns/Soldier/Soldier.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Pawns/Soldier/Soldier1D.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Pawns/Soldier/SoldierAB.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Pawns/Suicide/SuicideAB.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	modified:   Content/Maps/Map1.umap
+[2018.08.12-07.57.31:733][  0]SourceControl: 	modified:   Content/UI/GameplayUI/GameplayWB.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	deleted:    Content/VisualAssets/Enemy/Enemy_Gruntling_Scud/Enemy_Gruntling_Scud_Animation/ExoGame_Gruntling_Attack.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	modified:   Content/VisualAssets/Enemy/Enemy_Gruntling_Scud/Enemy_Gruntling_Scud_Animation/ExoGame_Gruntling_Run.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	modified:   Content/VisualAssets/Enemy/Enemy_Gruntling_Scud/Enemy_Gruntling_Scud_Animation/SK_Gruntling_Scud_Skeleton_Attack.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	modified:   Content/VisualAssets/Enemy/Enemy_Gruntling_Scud/SK_Gruntling_Scud_Skeleton.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: 	deleted:    Content/VisualAssets/Enemy/Enemy_Gruntling_Scud/SK_Gruntling_Scud_Skeleton_Sequence.uasset
+[2018.08.12-07.57.31:733][  0]SourceControl: Untracked files:
+[2018.08.12-07.57.31:733][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.08.12-07.57.31:733][  0]SourceControl: 	Intermediate/
+[2018.08.12-07.57.31:733][  0]SourceControl: 	Saved/
+[2018.08.12-07.57.31:734][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.08.12-07.57.31:801][  0]LogSlate: Took 0.011419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.12-07.57.33:592][  3]LogAssetRegistry: Asset discovery search completed in 77.4676 seconds
+[2018.08.12-07.57.33:595][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.12-07.57.33:596][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2018.08.12-07.57.33:620][  3]LogSlate: Took 0.000384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.12-07.57.45:559][329]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.12-07.57.46:097][329]LogAIModule: Creating AISystem for world Map1
+[2018.08.12-07.57.46:124][329]Cmd: MAP LOAD FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Maps/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.12-07.57.46:124][329]LightingResults: New page: Lighting Build
+[2018.08.12-07.57.46:125][329]LoadErrors: New page: Loading map: Map1.umap
+[2018.08.12-07.57.46:126][329]MapCheck: New page: Map Check
+[2018.08.12-07.57.46:126][329]LightingResults: New page: Lighting Build
+[2018.08.12-07.57.46:229][329]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.12-07.57.46:263][329]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.12-07.57.46:332][329]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.71ms to complete.
+[2018.08.12-07.57.46:333][329]LogFileHelpers: Loading map 'Map1' took 0.210
+[2018.08.12-07.57.51:575][789]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.12-07.57.52:009][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.12-07.57.52:009][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.12-07.57.52:009][789]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-07.57.52:009][789]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.12-07.57.52:010][789]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.12-07.57.52:010][789]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.12-07.57.52:010][789]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.08.12-07.57.52:010][789]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.08.12-07.57.52:023][789]PIE: New page: PIE session: Map1 (Aug 12, 2018, 11:57:52 PM)
+[2018.08.12-07.57.52:024][789]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Map1
+[2018.08.12-07.57.52:030][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006091s)
+[2018.08.12-07.57.52:031][789]LogAIModule: Creating AISystem for world Map1
+[2018.08.12-07.57.52:031][789]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2018.08.12-07.57.52:031][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_1_Map1.Map1 (0.007395s)
+[2018.08.12-07.57.52:043][789]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.12-07.57.52:092][789]LogInit: FAudioDevice initialized.
+[2018.08.12-07.57.52:145][789]LogLoad: Game class is 'GameplayGameMode_C'
+[2018.08.12-07.57.52:148][789]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map1.Map1 up for play (max tick rate 0) at 2018.08.12-15.57.52
+[2018.08.12-07.57.52:149][789]LogWorld: Bringing up level for play took: 0.001999
+[2018.08.12-07.57.52:218][789]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2018.08.12-07.57.52:219][789]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.12-07.57.52:219][789]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.08.12-07.57.52:219][789]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.12-07.57.52:219][789]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.08.12-07.57.54:500][789]GetHostByName failed (SE_NO_DATA)
+[2018.08.12-07.57.54:500][789]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.12-07.57.54:500][789]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2018.08.12-07.57.54:505][789]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_Map1 2.304
+[2018.08.12-07.57.54:507][789]PIE: New page: PIE session: Map1 (Aug 12, 2018, 11:57:54 PM)
+[2018.08.12-07.57.54:552][789]LogNet: Browse: 127.0.0.1//Game/Maps/Menu
+[2018.08.12-07.57.54:552][789]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.12-07.57.54:552][789]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.08.12-07.57.54:552][789]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.08.12-07.57.54:552][789]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.08.12-07.57.56:802][789]GetHostByName failed (SE_NO_DATA)
+[2018.08.12-07.57.56:802][789]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.12-07.57.56:802][789]LogNet: Game client on port 7777, rate 10000
+[2018.08.12-07.57.56:806][789]PIE: Play in editor start time for /Game/Maps/Menu 4.605
+[2018.08.12-07.57.56:815][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.12-07.57.56:816][789]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62829
+[2018.08.12-07.57.56:816][789]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 017116017100031246040038177131063067033222200037214063232244
+[2018.08.12-07.57.56:837][789]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 017116017100031246040038177131063067033222200037214063232244
+[2018.08.12-07.57.56:856][789]LogRenderer: Reallocating scene render targets to support 1292x756 Format 9 NumSamples 1 (Frame:1).
+[2018.08.12-07.57.56:923][790]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.35, Realtime: 0.11. IpNetDriver_0
+[2018.08.12-07.57.56:923][790]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62829
+[2018.08.12-07.57.56:924][790]LogHandshake: SendChallengeAck. InCookie: 017116017100031246040038177131063067033222200037214063232244
+[2018.08.12-07.57.56:924][790]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62829
+[2018.08.12-07.57.56:924][790]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.12-07.57.56:924][790]LogNet: NotifyAcceptedConnection: Name: Map1, TimeStamp: 08/12/18 15:57:56, [UNetConnection] RemoteAddr: 127.0.0.1:62829, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.08.12-07.57.56:924][790]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62829, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.08.12-07.57.56:925][790]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.35, Realtime: 0.09. IpNetDriver_1
+[2018.08.12-07.57.56:926][790]LogNetVersion: MultiplayerTest 1.0.0.0, NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3368800141)
+[2018.08.12-07.57.56:926][790]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2018.08.12-07.57.57:180][791]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Map1.Map1: Accepted
+[2018.08.12-07.57.57:180][791]LogNet: Remote platform little endian=1
+[2018.08.12-07.57.57:180][791]LogNet: This platform little endian=1
+[2018.08.12-07.57.57:200][792]LogNet: Login request: /Game/Maps/Menu?Name=Konstantin-??-1A0E8A6A4527770843E6179A661EBB1F userId: Konstantin-??-1A0E8A6A4527770843E6179A661EBB1F
+[2018.08.12-07.57.57:200][792]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Map1, Game: /Game/Blueprints/Gameplay/GameplayGameMode.GameplayGameMode_C)
+[2018.08.12-07.57.57:217][792]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_Map1?game=/Game/Blueprints/Gameplay/GameplayGameMode.GameplayGameMode_C
+[2018.08.12-07.57.57:230][792]Cmd: MEM
+[2018.08.12-07.57.57:240][792]LogMemory: Platform Memory Stats for Windows
+[2018.08.12-07.57.57:241][792]LogMemory: Process Physical Memory: 1122.03 MB used, 1168.96 MB peak
+[2018.08.12-07.57.57:241][792]LogMemory: Process Virtual Memory: 1043.34 MB used, 1081.52 MB peak
+[2018.08.12-07.57.57:241][792]LogMemory: Physical Memory: 4630.98 MB used,  1476.90 MB free, 6107.88 MB total
+[2018.08.12-07.57.57:241][792]LogMemory: Virtual Memory: 1709.52 MB used,  1476.90 MB free, 8388608.00 MB total
+[2018.08.12-07.57.57:241][792]LogMemory: 
+[2018.08.12-07.57.57:241][792]Allocator Stats for TBB: (not implemented)
+[2018.08.12-07.57.57:248][792]LogAIModule: Creating AISystem for world Map1
+[2018.08.12-07.57.57:249][792]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.12-07.57.57:251][792]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Map1.Map1 up for play (max tick rate 0) at 2018.08.12-15.57.57
+[2018.08.12-07.57.57:251][792]LogWorld: Bringing up level for play took: 0.001839
+[2018.08.12-07.57.57:252][792]LogLoad: Took 0.034264 seconds to LoadMap(/Game/Maps/UEDPIE_1_Map1)
+[2018.08.12-07.57.57:276][793]LogNet: Client netspeed is 10000
+[2018.08.12-07.57.57:276][793]LogNet: Join request: /Game/Maps/Menu?Name=Konstantin-??SplitscreenCount=1
+[2018.08.12-07.57.57:277][793]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.08.12-07.57.57:278][793]LogNet: Join succeeded: Konstantin-
+[2018.08.12-07.57.57:299][794]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.08.12-07.57.57:347][796]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Map1_C_0. Function SetUpPlayers will not be processed.
+[2018.08.12-07.57.57:375][797]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.08.12-07.58.00:640][917]AdvancedSteamFriendsLog: Warning: STEAM Couldn't be verified as initialized
+[2018.08.12-07.58.00:693][917]AdvancedSteamFriendsLog: Warning: STEAM Couldn't be verified as initialized
+[2018.08.12-07.58.02:392][978]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-07.58.03:665][ 25]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor SoldierBarracks_C_0. Function GetInstMatRunOnServ will not be processed.
+[2018.08.12-07.58.05:702][ 99]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor SoldierBarracks_C_1. Function GetInstMatRunOnServ will not be processed.
+[2018.08.12-07.58.07:356][159]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-07.58.08:662][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0.Cube' 
+[2018.08.12-07.58.08:665][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.Soldier_C_0.Cube' 
+[2018.08.12-07.58.08:666][206]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Soldier_C_0. Function SetTeamTag will not be processed.
+[2018.08.12-07.58.08:666][206]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Soldier_C_0. Function SearchEnemyMainBuild will not be processed.
+[2018.08.12-07.58.10:722][280]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1.Cube' 
+[2018.08.12-07.58.10:725][280]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.Soldier_C_1.Cube' 
+[2018.08.12-07.58.10:726][280]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Soldier_C_1. Function SetTeamTag will not be processed.
+[2018.08.12-07.58.10:726][280]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Soldier_C_1. Function SearchEnemyMainBuild will not be processed.
+[2018.08.12-07.58.12:371][339]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-07.58.17:366][518]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-07.58.22:363][696]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-07.58.22:901][715]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Soldier_C_0. Function SearchEnemyMainBuild will not be processed.
+[2018.08.12-07.58.22:928][716]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Soldier_C_0. Function GoToTarget will not be processed.
+[2018.08.12-07.58.22:929][716]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Soldier_C_1. Function GoToTarget will not be processed.
+[2018.08.12-07.58.23:232][727]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.23:233][727]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.23:428][734]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.23:428][734]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.23:622][741]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.23:622][741]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.23:812][748]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.23:813][748]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.24:034][756]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.24:034][756]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.24:227][763]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.24:227][763]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.24:422][770]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.24:422][770]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.24:611][777]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.24:611][777]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.24:643][778]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.24:643][778]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.24:832][785]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.24:833][785]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.24:833][785]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.24:833][785]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.25:027][792]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.25:027][792]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.25:027][792]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.25:027][792]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.25:226][799]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.25:227][799]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.25:227][799]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.25:227][799]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.25:422][806]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.25:423][806]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.25:423][806]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.25:423][806]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.25:614][813]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.25:614][813]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.25:641][814]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.25:641][814]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.25:832][821]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.25:832][821]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.25:833][821]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.25:833][821]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.26:025][828]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.26:025][828]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.26:025][828]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.26:026][828]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.26:224][835]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.26:224][835]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.26:224][835]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.26:224][835]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.26:413][842]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.26:413][842]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.26:440][843]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.26:441][843]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.26:636][850]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.26:636][850]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.26:636][850]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.26:830][857]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.26:830][857]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.26:831][857]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.27:026][864]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.27:026][864]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.27:026][864]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.27:216][871]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.27:244][872]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.27:245][872]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.27:356][876]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-07.58.27:436][879]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.27:437][879]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.27:437][879]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.27:632][886]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.27:632][886]LogScript: Warning: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+	Soldier_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier:09BB
+[2018.08.12-07.58.27:632][886]PIE: Error: Blueprint Runtime Error: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill from function: 'ExecuteUbergraph_Soldier' from node: LineTraceForObjects in graph: EventGraph in object: Soldier with description: Attempted to access MainBuld_143 via property Target, but MainBuld_143 is pending kill
+[2018.08.12-07.58.27:801][891]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2018.08.12-07.58.27:802][891]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2018.08.12-07.58.27:802][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.12-07.58.27:850][891]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-07.58.27:850][891]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.12-07.58.27:852][891]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.12-07.58.27:852][891]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.12-07.58.27:879][891]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-07.58.27:879][891]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.12-07.58.27:879][891]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.12-07.58.27:879][891]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.12-07.58.27:879][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.12-07.58.27:880][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.12-07.58.27:894][891]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62829, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.08.12-07.58.27:894][891]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62829, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.08.12-07.58.27
+[2018.08.12-07.58.27:894][891]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62829, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.08.12-07.58.27:894][891]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.08.12-07.58.27:894][891]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.08.12-07.58.27
+[2018.08.12-07.58.27:894][891]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.08.12-07.58.27:899][891]LogExit: GameNetDriver None shut down
+[2018.08.12-07.58.27:899][891]LogExit: GameNetDriver None shut down
+[2018.08.12-07.58.27:967][892]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.08.12-07.58.27:967][892]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-07.58.27:967][892]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.08.12-07.58.27:967][892]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-07.58.39:750][650]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Scud/SK_Gruntling_Scud'
+[2018.08.12-07.58.39:751][650]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Scud/SK_Gruntling_Scud'
+[2018.08.12-07.58.39:751][650]LogUObjectGlobals: Warning: Failed to find object 'SkeletalMesh /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Scud/SK_Gruntling_Scud.SK_Gruntling_Scud'
+[2018.08.12-07.58.42:009][690]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 113 classes and 0 folders.
+[2018.08.12-07.58.43:117][690]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.12-07.58.43:351][690]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_7:PersistentLevel.Soldier_C_1.Cube' 
+[2018.08.12-07.58.43:368][690]LogSlate: Took 0.012384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.12-07.58.43:723][691]LogSlate: Took 0.013065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.12-07.59.31:232][ 94]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.12-07.59.31:255][ 94]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.12-07.59.31:256][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.12-07.59.31:258][ 94]PIE: New page: PIE session: Map1 (Aug 12, 2018, 11:59:31 PM)
+[2018.08.12-07.59.31:259][ 94]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Map1
+[2018.08.12-07.59.31:265][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006213s)
+[2018.08.12-07.59.31:266][ 94]LogAIModule: Creating AISystem for world Map1
+[2018.08.12-07.59.31:266][ 94]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2018.08.12-07.59.31:266][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_1_Map1.Map1 (0.007692s)
+[2018.08.12-07.59.31:290][ 94]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.12-07.59.31:300][ 94]LogInit: FAudioDevice initialized.
+[2018.08.12-07.59.31:341][ 94]LogLoad: Game class is 'GameplayGameMode_C'
+[2018.08.12-07.59.31:343][ 94]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map1.Map1 up for play (max tick rate 0) at 2018.08.12-15.59.31
+[2018.08.12-07.59.31:343][ 94]LogWorld: Bringing up level for play took: 0.001978
+[2018.08.12-07.59.31:355][ 94]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.12-07.59.31:355][ 94]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.08.12-07.59.31:355][ 94]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.12-07.59.31:355][ 94]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.08.12-07.59.33:606][ 94]GetHostByName failed (SE_NO_DATA)
+[2018.08.12-07.59.33:606][ 94]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.12-07.59.33:606][ 94]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2018.08.12-07.59.33:612][ 94]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_Map1 1.41
+[2018.08.12-07.59.33:614][ 94]PIE: New page: PIE session: Map1 (Aug 12, 2018, 11:59:33 PM)
+[2018.08.12-07.59.33:660][ 94]LogNet: Browse: 127.0.0.1//Game/Maps/Menu
+[2018.08.12-07.59.33:660][ 94]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.12-07.59.33:660][ 94]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.08.12-07.59.33:660][ 94]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.08.12-07.59.33:660][ 94]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.08.12-07.59.35:911][ 94]GetHostByName failed (SE_NO_DATA)
+[2018.08.12-07.59.35:911][ 94]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.12-07.59.35:911][ 94]LogNet: Game client on port 7777, rate 10000
+[2018.08.12-07.59.35:917][ 94]PIE: Play in editor start time for /Game/Maps/Menu 3.714
+[2018.08.12-07.59.35:928][ 94]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.12-07.59.35:930][ 94]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50045
+[2018.08.12-07.59.35:930][ 94]LogHandshake: SendConnectChallenge. Timestamp: 0.019570, Cookie: 165191101246058064105165136251206042064218139033104049189129
+[2018.08.12-07.59.35:930][ 94]LogHandshake: SendChallengeResponse. Timestamp: 0.019570, Cookie: 165191101246058064105165136251206042064218139033104049189129
+[2018.08.12-07.59.36:029][ 95]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50045
+[2018.08.12-07.59.36:029][ 95]LogHandshake: SendChallengeAck. InCookie: 165191101246058064105165136251206042064218139033104049189129
+[2018.08.12-07.59.36:029][ 95]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50045
+[2018.08.12-07.59.36:029][ 95]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.12-07.59.36:029][ 95]LogNet: NotifyAcceptedConnection: Name: Map1, TimeStamp: 08/12/18 15:59:36, [UNetConnection] RemoteAddr: 127.0.0.1:50045, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.08.12-07.59.36:029][ 95]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50045, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.08.12-07.59.36:030][ 95]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2018.08.12-07.59.36:090][ 96]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Map1.Map1: Accepted
+[2018.08.12-07.59.36:090][ 96]LogNet: Remote platform little endian=1
+[2018.08.12-07.59.36:090][ 96]LogNet: This platform little endian=1
+[2018.08.12-07.59.36:115][ 97]LogNet: Login request: /Game/Maps/Menu?Name=Konstantin-??-C5ECE153487B8E359841C5AF9544AB2E userId: Konstantin-??-C5ECE153487B8E359841C5AF9544AB2E
+[2018.08.12-07.59.36:116][ 97]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Map1, Game: /Game/Blueprints/Gameplay/GameplayGameMode.GameplayGameMode_C)
+[2018.08.12-07.59.36:131][ 97]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_Map1?game=/Game/Blueprints/Gameplay/GameplayGameMode.GameplayGameMode_C
+[2018.08.12-07.59.36:152][ 97]Cmd: MEM
+[2018.08.12-07.59.36:185][ 97]LogMemory: Platform Memory Stats for Windows
+[2018.08.12-07.59.36:185][ 97]LogMemory: Process Physical Memory: 1331.47 MB used, 1343.42 MB peak
+[2018.08.12-07.59.36:185][ 97]LogMemory: Process Virtual Memory: 1233.56 MB used, 1241.36 MB peak
+[2018.08.12-07.59.36:186][ 97]LogMemory: Physical Memory: 5005.30 MB used,  1102.58 MB free, 6107.88 MB total
+[2018.08.12-07.59.36:186][ 97]LogMemory: Virtual Memory: 1914.37 MB used,  1102.58 MB free, 8388608.00 MB total
+[2018.08.12-07.59.36:186][ 97]LogMemory: 
+[2018.08.12-07.59.36:186][ 97]Allocator Stats for TBB: (not implemented)
+[2018.08.12-07.59.36:194][ 97]LogAIModule: Creating AISystem for world Map1
+[2018.08.12-07.59.36:194][ 97]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.12-07.59.36:196][ 97]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Map1.Map1 up for play (max tick rate 0) at 2018.08.12-15.59.36
+[2018.08.12-07.59.36:196][ 97]LogWorld: Bringing up level for play took: 0.001820
+[2018.08.12-07.59.36:197][ 97]LogLoad: Took 0.065766 seconds to LoadMap(/Game/Maps/UEDPIE_1_Map1)
+[2018.08.12-07.59.36:215][ 98]LogNet: Client netspeed is 10000
+[2018.08.12-07.59.36:216][ 98]LogNet: Join request: /Game/Maps/Menu?Name=Konstantin-??SplitscreenCount=1
+[2018.08.12-07.59.36:217][ 98]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.08.12-07.59.36:219][ 98]LogNet: Join succeeded: Konstantin-
+[2018.08.12-07.59.36:302][ 99]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Map1_C_0. Function SetUpPlayers will not be processed.
+[2018.08.12-07.59.36:341][100]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.08.12-07.59.36:341][100]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.08.12-07.59.38:772][187]AdvancedSteamFriendsLog: Warning: STEAM Couldn't be verified as initialized
+[2018.08.12-07.59.38:836][187]AdvancedSteamFriendsLog: Warning: STEAM Couldn't be verified as initialized
+[2018.08.12-07.59.41:313][277]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-07.59.42:627][324]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor SoldierBarracks_C_0. Function GetInstMatRunOnServ will not be processed.
+[2018.08.12-07.59.46:300][455]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-07.59.47:641][503]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0.Cube' 
+[2018.08.12-07.59.47:645][503]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.Soldier_C_0.Cube' 
+[2018.08.12-07.59.47:646][503]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Soldier_C_0. Function SetTeamTag will not be processed.
+[2018.08.12-07.59.47:646][503]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Soldier_C_0. Function SearchEnemyMainBuild will not be processed.
+[2018.08.12-07.59.51:309][633]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-07.59.56:331][808]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-08.00.01:325][982]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-08.00.02:893][ 37]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 491
+[2018.08.12-08.00.02:893][ 37]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:BndEvt__SenseBox_K2Node_ComponentBoundEvent_0_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier
+
+[2018.08.12-08.01.02:776][ 37]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.03, Realtime: 59.91. IpNetDriver_3
+[2018.08.12-08.01.02:777][ 37]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Soldier_C_0. Function SearchEnemyMainBuild will not be processed.
+[2018.08.12-08.01.02:793][ 38]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 59.90, Realtime: 59.90. IpNetDriver_2
+[2018.08.12-08.01.02:793][ 38]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 59.90, Realtime: 0.02. IpNetDriver_3
+[2018.08.12-08.01.03:256][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.12-08.01.03:316][ 53]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-08.01.03:316][ 53]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.12-08.01.03:317][ 53]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.12-08.01.03:317][ 53]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.12-08.01.03:317][ 53]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2018.08.12-08.01.03:317][ 53]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2018.08.12-08.01.03:373][ 53]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-08.01.03:373][ 53]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.12-08.01.03:373][ 53]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.12-08.01.03:373][ 53]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.12-08.01.03:374][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.12-08.01.03:374][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.12-08.01.03:398][ 53]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50045, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2018.08.12-08.01.03:398][ 53]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50045, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None, Channels: 4, Time: 2018.08.12-08.01.03
+[2018.08.12-08.01.03:398][ 53]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50045, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2018.08.12-08.01.03:398][ 53]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.08.12-08.01.03:398][ 53]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, Channels: 4, Time: 2018.08.12-08.01.03
+[2018.08.12-08.01.03:398][ 53]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.08.12-08.01.03:403][ 53]LogExit: GameNetDriver None shut down
+[2018.08.12-08.01.03:403][ 53]LogExit: GameNetDriver None shut down
+[2018.08.12-08.01.03:661][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.08.12-08.01.03:661][ 54]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-08.01.03:661][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.08.12-08.01.03:661][ 54]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-08.01.18:120][221]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.12-08.01.18:141][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.12-08.01.18:141][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.12-08.01.18:143][221]PIE: New page: PIE session: Map1 (Aug 13, 2018, 12:01:18 AM)
+[2018.08.12-08.01.18:144][221]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Map1
+[2018.08.12-08.01.18:149][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005748s)
+[2018.08.12-08.01.18:150][221]LogAIModule: Creating AISystem for world Map1
+[2018.08.12-08.01.18:151][221]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2018.08.12-08.01.18:151][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_1_Map1.Map1 (0.007252s)
+[2018.08.12-08.01.18:178][221]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.12-08.01.18:225][221]LogInit: FAudioDevice initialized.
+[2018.08.12-08.01.18:268][221]LogLoad: Game class is 'GameplayGameMode_C'
+[2018.08.12-08.01.18:270][221]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map1.Map1 up for play (max tick rate 0) at 2018.08.12-16.01.18
+[2018.08.12-08.01.18:271][221]LogWorld: Bringing up level for play took: 0.002024
+[2018.08.12-08.01.18:283][221]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.12-08.01.18:283][221]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2018.08.12-08.01.18:283][221]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.12-08.01.18:283][221]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.08.12-08.01.20:535][221]GetHostByName failed (SE_NO_DATA)
+[2018.08.12-08.01.20:535][221]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.12-08.01.20:535][221]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 7777
+[2018.08.12-08.01.20:541][221]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_Map1 2.336
+[2018.08.12-08.01.20:543][221]PIE: New page: PIE session: Map1 (Aug 13, 2018, 12:01:20 AM)
+[2018.08.12-08.01.20:590][221]LogNet: Browse: 127.0.0.1//Game/Maps/Menu
+[2018.08.12-08.01.20:590][221]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.12-08.01.20:590][221]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2018.08.12-08.01.20:590][221]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.08.12-08.01.20:590][221]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.08.12-08.01.22:840][221]GetHostByName failed (SE_NO_DATA)
+[2018.08.12-08.01.22:840][221]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.12-08.01.22:840][221]LogNet: Game client on port 7777, rate 10000
+[2018.08.12-08.01.22:846][221]PIE: Play in editor start time for /Game/Maps/Menu 4.641
+[2018.08.12-08.01.22:856][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.12-08.01.22:857][221]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52307
+[2018.08.12-08.01.22:857][221]LogHandshake: SendConnectChallenge. Timestamp: 0.014237, Cookie: 218039042119240002202021148191225201035208134167244247118235
+[2018.08.12-08.01.22:858][221]LogHandshake: SendChallengeResponse. Timestamp: 0.014237, Cookie: 218039042119240002202021148191225201035208134167244247118235
+[2018.08.12-08.01.22:936][222]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52307
+[2018.08.12-08.01.22:936][222]LogHandshake: SendChallengeAck. InCookie: 218039042119240002202021148191225201035208134167244247118235
+[2018.08.12-08.01.22:937][222]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52307
+[2018.08.12-08.01.22:937][222]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.12-08.01.22:937][222]LogNet: NotifyAcceptedConnection: Name: Map1, TimeStamp: 08/12/18 16:01:22, [UNetConnection] RemoteAddr: 127.0.0.1:52307, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.08.12-08.01.22:937][222]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52307, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.08.12-08.01.22:937][222]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2018.08.12-08.01.22:967][223]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Map1.Map1: Accepted
+[2018.08.12-08.01.22:967][223]LogNet: Remote platform little endian=1
+[2018.08.12-08.01.22:967][223]LogNet: This platform little endian=1
+[2018.08.12-08.01.22:997][224]LogNet: Login request: /Game/Maps/Menu?Name=Konstantin-??-8EEAFE1C4ADDB56FAE820D96620BB134 userId: Konstantin-??-8EEAFE1C4ADDB56FAE820D96620BB134
+[2018.08.12-08.01.22:998][224]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Map1, Game: /Game/Blueprints/Gameplay/GameplayGameMode.GameplayGameMode_C)
+[2018.08.12-08.01.23:013][224]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_Map1?game=/Game/Blueprints/Gameplay/GameplayGameMode.GameplayGameMode_C
+[2018.08.12-08.01.23:033][224]Cmd: MEM
+[2018.08.12-08.01.23:052][224]LogMemory: Platform Memory Stats for Windows
+[2018.08.12-08.01.23:052][224]LogMemory: Process Physical Memory: 1683.69 MB used, 1733.52 MB peak
+[2018.08.12-08.01.23:052][224]LogMemory: Process Virtual Memory: 1679.96 MB used, 1767.48 MB peak
+[2018.08.12-08.01.23:052][224]LogMemory: Physical Memory: 4881.91 MB used,  1225.97 MB free, 6107.88 MB total
+[2018.08.12-08.01.23:052][224]LogMemory: Virtual Memory: 2368.30 MB used,  1225.97 MB free, 8388608.00 MB total
+[2018.08.12-08.01.23:052][224]LogMemory: 
+[2018.08.12-08.01.23:052][224]Allocator Stats for TBB: (not implemented)
+[2018.08.12-08.01.23:059][224]LogAIModule: Creating AISystem for world Map1
+[2018.08.12-08.01.23:059][224]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.12-08.01.23:061][224]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Map1.Map1 up for play (max tick rate 0) at 2018.08.12-16.01.23
+[2018.08.12-08.01.23:062][224]LogWorld: Bringing up level for play took: 0.001737
+[2018.08.12-08.01.23:062][224]LogLoad: Took 0.049213 seconds to LoadMap(/Game/Maps/UEDPIE_1_Map1)
+[2018.08.12-08.01.23:075][225]LogNet: Client netspeed is 10000
+[2018.08.12-08.01.23:075][225]LogNet: Join request: /Game/Maps/Menu?Name=Konstantin-??SplitscreenCount=1
+[2018.08.12-08.01.23:075][225]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.08.12-08.01.23:076][225]LogNet: Join succeeded: Konstantin-
+[2018.08.12-08.01.23:132][227]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Map1_C_0. Function SetUpPlayers will not be processed.
+[2018.08.12-08.01.23:188][229]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.08.12-08.01.23:214][230]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.08.12-08.01.25:755][322]AdvancedSteamFriendsLog: Warning: STEAM Couldn't be verified as initialized
+[2018.08.12-08.01.25:833][322]AdvancedSteamFriendsLog: Warning: STEAM Couldn't be verified as initialized
+[2018.08.12-08.01.28:170][406]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-08.01.29:271][445]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor SoldierBarracks_C_0. Function GetInstMatRunOnServ will not be processed.
+[2018.08.12-08.01.33:318][576]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-08.01.34:273][579]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.Soldier_C_0.Cube' 
+[2018.08.12-08.01.34:273][579]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_GoToTarget', from offset 362
+[2018.08.12-08.01.34:274][579]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ReceiveBeginPlay
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:SearchEnemyMainBuild
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier
+
+[2018.08.12-08.01.40:352][579]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.33, Realtime: 6.41. IpNetDriver_5
+[2018.08.12-08.01.40:353][579]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.Soldier_C_0.Cube' 
+[2018.08.12-08.01.40:354][579]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Soldier_C_0. Function SetTeamTag will not be processed.
+[2018.08.12-08.01.40:354][579]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Soldier_C_0. Function SearchEnemyMainBuild will not be processed.
+[2018.08.12-08.01.40:372][580]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 6.11, Realtime: 6.10. IpNetDriver_4
+[2018.08.12-08.01.40:373][580]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 6.11, Realtime: 0.02. IpNetDriver_5
+[2018.08.12-08.01.43:862][679]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-08.01.48:849][856]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-08.01.53:853][ 35]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.08.12-08.01.53:962][ 39]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_GoToTarget', from offset 362
+[2018.08.12-08.01.53:962][ 39]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:BndEvt__SenseBox_K2Node_ComponentBoundEvent_0_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:SearchEnemyMainBuild
+	Function /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier_C:ExecuteUbergraph_Soldier
+
+[2018.08.12-08.02.43:109][ 39]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.03, Realtime: 49.17. IpNetDriver_5
+[2018.08.12-08.02.43:109][ 39]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Soldier_C_0. Function SearchEnemyMainBuild will not be processed.
+[2018.08.12-08.02.43:117][ 39]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.12-08.02.43:180][ 39]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-08.02.43:180][ 39]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.12-08.02.43:185][ 39]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.12-08.02.43:185][ 39]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.12-08.02.43:185][ 39]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2018.08.12-08.02.43:185][ 39]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2018.08.12-08.02.43:233][ 39]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-08.02.43:233][ 39]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.12-08.02.43:233][ 39]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.12-08.02.43:233][ 39]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.12-08.02.43:233][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.12-08.02.43:234][ 39]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.12-08.02.43:256][ 39]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52307, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2018.08.12-08.02.43:256][ 39]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52307, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.08.12-08.02.43
+[2018.08.12-08.02.43:256][ 39]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52307, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2018.08.12-08.02.43:257][ 39]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2018.08.12-08.02.43:257][ 39]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.08.12-08.02.43
+[2018.08.12-08.02.43:257][ 39]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2018.08.12-08.02.43:261][ 39]LogExit: GameNetDriver None shut down
+[2018.08.12-08.02.43:261][ 39]LogExit: GameNetDriver None shut down
+[2018.08.12-08.02.43:308][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.08.12-08.02.43:308][ 40]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-08.02.43:308][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.08.12-08.02.43:309][ 40]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-08.04.31:793][367]BlueprintLog: New page: Compile Tower
+[2018.08.12-08.04.36:216][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/Builds/Tower" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset" SILENT=true
+[2018.08.12-08.04.36:422][597]LogSavePackage: Save=193.73ms
+[2018.08.12-08.04.36:422][597]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/TowerEA2B28674C80DE9CB02581B93404B732.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.04.36:423][597]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset', retrying in .5s...
+[2018.08.12-08.04.36:923][597]LogFileManager: Error: Error deleting file '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'.
+[2018.08.12-08.04.36:923][597]LogSavePackage: Error: Error saving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.04.36:937][597]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset
+[2018.08.12-08.04.43:674][597]EditorErrors: New page: Save Output
+[2018.08.12-08.04.43:675][597]EditorErrors: Warning: Error saving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.04.51:671][ 10]BlueprintLog: New page: Compile Tower
+[2018.08.12-08.04.52:614][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/Builds/Tower" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset" SILENT=true
+[2018.08.12-08.04.52:751][ 33]LogSavePackage: Save=123.20ms
+[2018.08.12-08.04.52:751][ 33]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Tower1FA563CB403D9F7E12240EA62913DC4A.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.04.52:752][ 33]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset', retrying in .5s...
+[2018.08.12-08.04.53:252][ 33]LogFileManager: Error: Error deleting file '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'.
+[2018.08.12-08.04.53:252][ 33]LogSavePackage: Error: Error saving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.04.53:253][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset
+[2018.08.12-08.05.00:309][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/Builds/Tower" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset" SILENT=true
+[2018.08.12-08.05.00:440][ 33]LogSavePackage: Save=111.13ms
+[2018.08.12-08.05.00:440][ 33]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/TowerD866130040A2FD29A745659D15DBBF86.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.05.00:441][ 33]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset', retrying in .5s...
+[2018.08.12-08.05.00:941][ 33]LogFileManager: Error: Error deleting file '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'.
+[2018.08.12-08.05.00:941][ 33]LogSavePackage: Error: Error saving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.05.00:942][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset
+[2018.08.12-08.05.02:040][ 33]EditorErrors: New page: Save Output
+[2018.08.12-08.05.02:040][ 33]EditorErrors: Warning: Error saving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.05.02:040][ 33]EditorErrors: Warning: Error saving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.05.09:507][782]LogEditorTransaction: Undo Move Nodes
+[2018.08.12-08.05.11:586][893]LogEditorTransaction: Undo Create Pin Link
+[2018.08.12-08.05.12:364][933]LogEditorTransaction: Undo Move Node
+[2018.08.12-08.05.15:239][ 98]BlueprintLog: New page: Compile Tower
+[2018.08.12-08.05.23:683][838]BlueprintLog: New page: Compile Tower
+[2018.08.12-08.05.24:455][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/Builds/Tower" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset" SILENT=true
+[2018.08.12-08.05.24:583][857]LogSavePackage: Save=116.38ms
+[2018.08.12-08.05.24:584][857]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/TowerD66AE52B45F54705FB5A8DA97E893070.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.05.24:584][857]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset', retrying in .5s...
+[2018.08.12-08.05.25:084][857]LogFileManager: Error: Error deleting file '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'.
+[2018.08.12-08.05.25:084][857]LogSavePackage: Error: Error saving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.05.25:085][857]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset
+[2018.08.12-08.05.32:213][857]EditorErrors: New page: Save Output
+[2018.08.12-08.05.32:213][857]EditorErrors: Warning: Error saving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.05.41:283][600]BlueprintLog: New page: Compile Tower
+[2018.08.12-08.05.42:335][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/Builds/Tower" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset" SILENT=true
+[2018.08.12-08.05.42:469][627]LogSavePackage: Save=122.38ms
+[2018.08.12-08.05.42:469][627]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Tower386E72C0417C81DB63669EB1CF3374D5.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.05.42:470][627]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset', retrying in .5s...
+[2018.08.12-08.05.42:971][627]LogFileManager: Error: Error deleting file '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'.
+[2018.08.12-08.05.42:971][627]LogSavePackage: Error: Error saving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.05.42:972][627]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset
+[2018.08.12-08.05.57:525][627]EditorErrors: New page: Save Output
+[2018.08.12-08.05.57:525][627]EditorErrors: Warning: Error saving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Builds/Tower.uasset'
+[2018.08.12-08.06.07:711][224]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.08.12-08.10.30:193][179]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map1' took 0.033
+[2018.08.12-08.10.30:222][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Gameplay/Pawns/Soldier/Soldier] ([1] browsable assets)...
+[2018.08.12-08.10.30:264][179]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Gameplay/Pawns/Soldier/Soldier.Soldier]
+[2018.08.12-08.10.30:264][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gameplay/Pawns/Soldier/Soldier]
+[2018.08.12-08.10.30:443][179]LogSavePackage: Save=166.08ms
+[2018.08.12-08.10.30:444][179]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Soldier_Auto1AD3851F749660FC81CEBD7A8928A7FD4.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Autosaves/Game/Blueprints/Gameplay/Pawns/Soldier/Soldier_Auto1.uasset'
+[2018.08.12-08.10.30:464][179]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Autosaves/Game/Blueprints/Gameplay/Pawns/Soldier/Soldier_Auto1.uasset
+[2018.08.12-08.10.30:465][179]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Gameplay/Builds/Tower] ([1] browsable assets)...
+[2018.08.12-08.10.30:465][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gameplay/Builds/Tower]
+[2018.08.12-08.10.30:615][179]LogSavePackage: Save=123.28ms
+[2018.08.12-08.10.30:615][179]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Tower_Auto1DED995E0427AE4F9BE605D81A7F6110E.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Autosaves/Game/Blueprints/Gameplay/Builds/Tower_Auto1.uasset'
+[2018.08.12-08.10.30:616][179]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Autosaves/Game/Blueprints/Gameplay/Builds/Tower_Auto1.uasset
+[2018.08.12-08.10.30:617][179]LogFileHelpers: Auto-saving content packages took 0.422
+[2018.08.12-08.15.11:458][165]Cmd: QUIT_EDITOR
+[2018.08.12-08.15.12:332][165]LogExit: Preparing to exit.
+[2018.08.12-08.15.13:065][165]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/' was aborted.
+[2018.08.12-08.15.13:679][165]LogExit: Editor shut down
+[2018.08.12-08.15.13:689][165]LogExit: Transaction tracking system shut down
+[2018.08.12-08.15.15:587][165]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.08.12-08.15.15:587][165]LogDirectoryWatcher: A directory notification for '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/' was aborted.
+[2018.08.12-08.15.15:587][165]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.08.12-08.15.15:587][165]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.08.12-08.15.15:587][165]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.08.12-08.15.18:126][165]LogExit: Object subsystem successfully closed.
+[2018.08.12-08.15.23:147][165]LogD3D11RHI: Shutdown
+[2018.08.12-08.15.23:157][165]LogD3D11RHI: CleanupD3DDevice
+[2018.08.12-08.15.28:678][165]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.12-08.15.32:363][165]LogModuleManager: Shutting down and abandoning module BlueprintGraph (540)
+[2018.08.12-08.15.32:363][165]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (538)
+[2018.08.12-08.15.32:442][165]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2018.08.12-08.15.32:442][165]LogModuleManager: Shutting down and abandoning module Voice (532)
+[2018.08.12-08.15.32:480][165]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.08.12-08.15.32:480][165]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.08.12-08.15.32:494][165]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.08.12-08.15.32:500][165]LogDirectoryWatcher: A directory notification for 'E:/Tournament/UE_4.17/FeaturePacks/' was aborted.
+[2018.08.12-08.15.32:523][165]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.08.12-08.15.32:523][165]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.08.12-08.15.32:523][165]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.08.12-08.15.32:531][165]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Collections/' was aborted.
+[2018.08.12-08.15.32:531][165]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Developers/Konstantin/Collections/' was aborted.
+[2018.08.12-08.15.32:531][165]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Collections/' was aborted.
+[2018.08.12-08.15.32:532][165]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.08.12-08.15.32:557][165]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.08.12-08.15.32:557][165]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.08.12-08.15.32:593][165]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.08.12-08.15.32:594][165]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.08.12-08.15.32:594][165]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.08.12-08.15.32:594][165]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.08.12-08.15.32:594][165]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.08.12-08.15.32:594][165]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.08.12-08.15.32:600][165]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.08.12-08.15.32:600][165]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.08.12-08.15.32:600][165]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.08.12-08.15.32:605][165]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.08.12-08.15.32:611][165]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.08.12-08.15.32:635][165]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.08.12-08.15.32:665][165]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.08.12-08.15.32:665][165]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.08.12-08.15.32:665][165]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.08.12-08.15.32:665][165]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.08.12-08.15.32:665][165]LogModuleManager: Shutting down and abandoning module Media (481)
+[2018.08.12-08.15.32:665][165]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (478)
+[2018.08.12-08.15.32:665][165]LogModuleManager: Shutting down and abandoning module CharacterAI (476)
+[2018.08.12-08.15.32:665][165]LogModuleManager: Shutting down and abandoning module AudioCapture (474)
+[2018.08.12-08.15.32:665][165]LogModuleManager: Shutting down and abandoning module SequenceRecorder (473)
+[2018.08.12-08.15.32:675][165]LogModuleManager: Shutting down and abandoning module SmartSnapping (470)
+[2018.08.12-08.15.32:675][165]LogModuleManager: Shutting down and abandoning module SessionServices (468)
+[2018.08.12-08.15.32:675][165]LogModuleManager: Shutting down and abandoning module ViewportSnapping (466)
+[2018.08.12-08.15.32:675][165]LogModuleManager: Shutting down and abandoning module ViewportInteraction (464)
+[2018.08.12-08.15.32:675][165]LogModuleManager: Shutting down and abandoning module ClothPainter (462)
+[2018.08.12-08.15.32:696][165]LogModuleManager: Shutting down and abandoning module LogVisualizer (460)
+[2018.08.12-08.15.32:792][165]LogModuleManager: Shutting down and abandoning module IntroTutorials (458)
+[2018.08.12-08.15.32:916][165]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (457)
+[2018.08.12-08.15.33:117][165]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (454)
+[2018.08.12-08.15.33:163][165]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (452)
+[2018.08.12-08.15.33:163][165]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (450)
+[2018.08.12-08.15.33:163][165]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (449)
+[2018.08.12-08.15.33:611][165]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (446)
+[2018.08.12-08.15.33:611][165]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (444)
+[2018.08.12-08.15.33:611][165]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (442)
+[2018.08.12-08.15.33:611][165]LogModuleManager: Shutting down and abandoning module InputBindingEditor (440)
+[2018.08.12-08.15.33:666][165]LogModuleManager: Shutting down and abandoning module MergeActors (438)
+[2018.08.12-08.15.33:774][165]LogModuleManager: Shutting down and abandoning module SizeMap (436)
+[2018.08.12-08.15.33:774][165]LogModuleManager: Shutting down and abandoning module TreeMap (434)
+[2018.08.12-08.15.33:865][165]LogModuleManager: Shutting down and abandoning module ReferenceViewer (432)
+[2018.08.12-08.15.33:865][165]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (430)
+[2018.08.12-08.15.34:034][165]LogModuleManager: Shutting down and abandoning module LocalizationService (429)
+[2018.08.12-08.15.34:062][165]LogModuleManager: Shutting down and abandoning module HardwareTargeting (426)
+[2018.08.12-08.15.34:062][165]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (424)
+[2018.08.12-08.15.34:105][165]LogModuleManager: Shutting down and abandoning module UndoHistory (422)
+[2018.08.12-08.15.34:105][165]LogModuleManager: Shutting down and abandoning module XmlParser (420)
+[2018.08.12-08.15.34:141][165]LogModuleManager: Shutting down and abandoning module Blutility (418)
+[2018.08.12-08.15.34:141][165]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (416)
+[2018.08.12-08.15.34:142][165]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (415)
+[2018.08.12-08.15.34:142][165]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (412)
+[2018.08.12-08.15.34:142][165]LogModuleManager: Shutting down and abandoning module SettingsEditor (410)
+[2018.08.12-08.15.34:247][165]LogModuleManager: Shutting down and abandoning module ProjectLauncher (408)
+[2018.08.12-08.15.34:325][165]LogModuleManager: Shutting down and abandoning module SessionFrontend (406)
+[2018.08.12-08.15.34:412][165]LogModuleManager: Shutting down and abandoning module ProfilerClient (404)
+[2018.08.12-08.15.34:465][165]LogModuleManager: Shutting down and abandoning module DeviceManager (402)
+[2018.08.12-08.15.34:505][165]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (401)
+[2018.08.12-08.15.34:545][165]LogModuleManager: Shutting down and abandoning module AutomationController (398)
+[2018.08.12-08.15.34:684][165]LogModuleManager: Shutting down and abandoning module AutomationWindow (396)
+[2018.08.12-08.15.34:865][165]LogModuleManager: Shutting down and abandoning module Layers (394)
+[2018.08.12-08.15.35:181][165]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (392)
+[2018.08.12-08.15.35:181][165]LogModuleManager: Shutting down and abandoning module DetailCustomizations (390)
+[2018.08.12-08.15.35:245][165]LogModuleManager: Shutting down and abandoning module PackagesDialog (388)
+[2018.08.12-08.15.35:246][165]LogModuleManager: Shutting down and abandoning module Persona (386)
+[2018.08.12-08.15.35:371][165]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (385)
+[2018.08.12-08.15.35:371][165]LogModuleManager: Shutting down and abandoning module AnimGraph (383)
+[2018.08.12-08.15.35:437][165]LogModuleManager: Shutting down and abandoning module Kismet (380)
+[2018.08.12-08.15.35:445][165]LogModuleManager: Shutting down and abandoning module ClassViewer (378)
+[2018.08.12-08.15.35:445][165]LogModuleManager: Shutting down and abandoning module Toolbox (376)
+[2018.08.12-08.15.35:445][165]LogModuleManager: Shutting down and abandoning module ModuleUI (374)
+[2018.08.12-08.15.35:504][165]LogModuleManager: Shutting down and abandoning module MovieSceneTools (372)
+[2018.08.12-08.15.35:599][165]LogModuleManager: Shutting down and abandoning module OutputLog (370)
+[2018.08.12-08.15.35:599][165]LogModuleManager: Shutting down and abandoning module GammaUI (368)
+[2018.08.12-08.15.35:658][165]LogModuleManager: Shutting down and abandoning module Documentation (366)
+[2018.08.12-08.15.35:659][165]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (364)
+[2018.08.12-08.15.35:659][165]LogModuleManager: Shutting down and abandoning module MovieScene (362)
+[2018.08.12-08.15.35:659][165]LogModuleManager: Shutting down and abandoning module Niagara (360)
+[2018.08.12-08.15.35:659][165]LogModuleManager: Shutting down and abandoning module NiagaraEditor (359)
+[2018.08.12-08.15.35:753][165]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (356)
+[2018.08.12-08.15.35:753][165]LogModuleManager: Shutting down and abandoning module LauncherPlatform (354)
+[2018.08.12-08.15.35:753][165]LogModuleManager: Shutting down and abandoning module AnalyticsET (352)
+[2018.08.12-08.15.35:754][165]LogModuleManager: Shutting down and abandoning module PortalServices (350)
+[2018.08.12-08.15.35:754][165]LogModuleManager: Shutting down and abandoning module PortalRpc (348)
+[2018.08.12-08.15.35:754][165]LogModuleManager: Shutting down and abandoning module MessagingRpc (346)
+[2018.08.12-08.15.35:754][165]LogModuleManager: Shutting down and abandoning module AIModule (344)
+[2018.08.12-08.15.35:754][165]LogModuleManager: Shutting down and abandoning module GameplayDebugger (343)
+[2018.08.12-08.15.35:754][165]LogModuleManager: Shutting down and abandoning module AITestSuite (341)
+[2018.08.12-08.15.35:778][165]LogModuleManager: Shutting down and abandoning module ProfilerService (338)
+[2018.08.12-08.15.35:952][165]LogModuleManager: Shutting down and abandoning module TaskGraph (336)
+[2018.08.12-08.15.35:991][165]LogModuleManager: Shutting down and abandoning module SteamVRController (334)
+[2018.08.12-08.15.35:992][165]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (332)
+[2018.08.12-08.15.35:992][165]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (330)
+[2018.08.12-08.15.35:992][165]LogModuleManager: Shutting down and abandoning module OculusInput (328)
+[2018.08.12-08.15.36:000][165]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (326)
+[2018.08.12-08.15.36:000][165]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (324)
+[2018.08.12-08.15.36:000][165]LogModuleManager: Shutting down and abandoning module CableComponent (322)
+[2018.08.12-08.15.36:007][165]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (320)
+[2018.08.12-08.15.36:007][165]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (318)
+[2018.08.12-08.15.36:029][165]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.08.12-08.15.36:029][165]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.08.12-08.15.36:039][165]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.08.12-08.15.36:039][165]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.08.12-08.15.36:039][165]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.08.12-08.15.36:039][165]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.08.12-08.15.36:039][165]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.08.12-08.15.36:079][165]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.08.12-08.15.36:108][165]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.08.12-08.15.36:108][165]LogModuleManager: Shutting down and abandoning module DesktopPlatform (299)
+[2018.08.12-08.15.36:117][165]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.08.12-08.15.36:117][165]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.08.12-08.15.36:139][165]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.08.12-08.15.36:156][165]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.08.12-08.15.36:168][165]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.08.12-08.15.36:168][165]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.08.12-08.15.36:168][165]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.08.12-08.15.36:169][165]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.08.12-08.15.36:169][165]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.08.12-08.15.36:180][165]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.08.12-08.15.36:187][165]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.08.12-08.15.36:207][165]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.08.12-08.15.36:226][165]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.08.12-08.15.36:226][165]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.08.12-08.15.36:243][165]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.08.12-08.15.36:243][165]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.08.12-08.15.36:243][165]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.08.12-08.15.36:243][165]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.08.12-08.15.36:243][165]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.08.12-08.15.36:243][165]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.08.12-08.15.36:243][165]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.08.12-08.15.36:256][165]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.08.12-08.15.36:356][165]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.08.12-08.15.36:479][165]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.08.12-08.15.36:526][165]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.08.12-08.15.36:526][165]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.08.12-08.15.36:526][165]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.08.12-08.15.36:543][165]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.08.12-08.15.36:543][165]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.08.12-08.15.36:544][165]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.08.12-08.15.36:544][165]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (236)
+[2018.08.12-08.15.36:544][165]LogModuleManager: Shutting down and abandoning module AdvancedSessions (234)
+[2018.08.12-08.15.36:544][165]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2018.08.12-08.15.36:556][165]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2018.08.12-08.15.36:564][165]LogModuleManager: Shutting down and abandoning module WmfMedia (228)
+[2018.08.12-08.15.36:634][165]LogModuleManager: Shutting down and abandoning module PacketHandler (226)
+[2018.08.12-08.15.36:634][165]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (224)
+[2018.08.12-08.15.36:646][165]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (222)
+[2018.08.12-08.15.36:672][165]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2018.08.12-08.15.36:673][165]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2018.08.12-08.15.36:673][165]LogModuleManager: Shutting down and abandoning module MediaAssets (216)
+[2018.08.12-08.15.36:673][165]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.08.12-08.15.36:697][165]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.08.12-08.15.36:712][165]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.08.12-08.15.36:712][165]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.08.12-08.15.36:764][165]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.08.12-08.15.36:764][165]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.08.12-08.15.36:770][165]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.08.12-08.15.36:770][165]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.08.12-08.15.36:770][165]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.08.12-08.15.36:814][165]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.08.12-08.15.36:849][165]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.08.12-08.15.36:849][165]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.08.12-08.15.36:924][165]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.08.12-08.15.36:924][165]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.08.12-08.15.36:927][165]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.08.12-08.15.36:927][165]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.08.12-08.15.36:927][165]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.08.12-08.15.36:927][165]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.08.12-08.15.36:927][165]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.08.12-08.15.36:927][165]LogModuleManager: Shutting down and abandoning module Core (174)
+[2018.08.12-08.15.36:927][165]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2018.08.12-08.15.36:927][165]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2018.08.12-08.15.36:942][165]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2018.08.12-08.15.36:954][165]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2018.08.12-08.15.36:954][165]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (165)
+[2018.08.12-08.15.36:964][165]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (163)
+[2018.08.12-08.15.36:965][165]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2018.08.12-08.15.36:977][165]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2018.08.12-08.15.36:981][165]LogModuleManager: Shutting down and abandoning module LevelSequence (154)
+[2018.08.12-08.15.36:981][165]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (152)
+[2018.08.12-08.15.36:981][165]LogModuleManager: Shutting down and abandoning module DerivedDataCache (150)
+[2018.08.12-08.15.37:078][165]LogDerivedDataCache: Shutdown
+[2018.08.12-08.15.37:087][165]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2018.08.12-08.15.37:087][165]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2018.08.12-08.15.37:106][165]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2018.08.12-08.15.37:117][165]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2018.08.12-08.15.37:126][165]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2018.08.12-08.15.37:140][165]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2018.08.12-08.15.37:152][165]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2018.08.12-08.15.37:152][165]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2018.08.12-08.15.37:152][165]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2018.08.12-08.15.37:163][165]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2018.08.12-08.15.37:189][165]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2018.08.12-08.15.37:189][165]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2018.08.12-08.15.37:189][165]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2018.08.12-08.15.37:189][165]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2018.08.12-08.15.37:189][165]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2018.08.12-08.15.37:189][165]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2018.08.12-08.15.37:189][165]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (93)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (91)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (89)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (87)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.08.12-08.15.37:190][165]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.08.12-08.15.37:206][165]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.08.12-08.15.37:206][165]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2018.08.12-08.15.37:206][165]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2018.08.12-08.15.37:206][165]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-08.15.37:206][165]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.12-08.15.37:208][165]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.12-08.15.37:208][165]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.12-08.15.37:208][165]LogOnline: Display: Unloading online subsystem: STEAM
+[2018.08.12-08.15.37:228][165]LogOnline: Display: Unloading online subsystem: NULL
+[2018.08.12-08.15.37:228][165]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.08.12-08.15.37:237][165]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.08.12-08.15.37:237][165]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.12-08.15.37:249][165]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B327058F9-43DA-543C-3341-25A7EA356983%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=b19575cd4c512bae2d0928b74a89dbe6%7Cb5027df129bc43d1b0dba9f66342505d%7Ce65336ce-a652-4926-93d0-de7cfdb38018&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.12-08.15.37:260][165]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.08.12-08.15.37:312][165]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.12-08.15.37:325][165]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.12-08.15.37:325][165]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.12-08.15.37:344][165]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.12-08.15.37:354][165]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.12-08.15.37:354][165]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.12-08.15.37:354][165]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.12-08.15.37:368][165]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.12-08.15.37:392][165]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.12-08.15.37:392][165]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.12-08.15.37:392][165]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.12-08.15.37:392][165]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.12-08.15.37:392][165]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.12-08.15.37:392][165]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.12-08.15.37:400][165]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.12-08.15.37:400][165]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.12-08.15.37:407][165]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.12-08.15.37:414][165]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.12-08.15.37:430][165]LogExit: Exiting.
+[2018.08.12-08.15.37:442][165]Log file closed, 08/12/18 16:15:37

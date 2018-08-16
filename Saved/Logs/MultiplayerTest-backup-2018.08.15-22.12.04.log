@@ -1,0 +1,1087 @@
+﻿Log file open, 08/15/18 20:57:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MultiplayerTest
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1409243711) SRandInit(1409243711).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177542
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: E:/Tournament/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.15-12.57.57:677][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.15-12.57.57:677][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.15-12.57.57:714][  0]LogInit: Computer: KONSTANTIN-ПК
+[2018.08.15-12.57.57:714][  0]LogInit: User: Konstantin
+[2018.08.15-12.57.57:714][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.15-12.57.57:714][  0]LogInit: High frequency timer resolution =3.020517 MHz
+[2018.08.15-12.57.57:714][  0]LogMemory: Memory total: Physical=6.0GB (6GB approx)
+[2018.08.15-12.57.57:714][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.15-12.57.57:714][  0]LogMemory: Process Physical Memory: 279.12 MB used, 279.12 MB peak
+[2018.08.15-12.57.57:714][  0]LogMemory: Process Virtual Memory: 276.80 MB used, 276.80 MB peak
+[2018.08.15-12.57.57:714][  0]LogMemory: Physical Memory: 3676.79 MB used,  2431.09 MB free, 6107.88 MB total
+[2018.08.15-12.57.57:714][  0]LogMemory: Virtual Memory: 657.77 MB used,  2431.09 MB free, 8388608.00 MB total
+[2018.08.15-12.57.58:409][  0]LogInit: Using OS detected language (ru-RU).
+[2018.08.15-12.57.58:409][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.08.15-12.57.58:570][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.08.15-12.57.58:571][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.08.15-12.58.01:017][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.15-12.58.01:070][  0]LogD3D11RHI:    0. 'AMD Radeon HD 6670' (Feature Level 11_0)
+[2018.08.15-12.58.01:070][  0]LogD3D11RHI:       1010/0/2797 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.08.15-12.58.01:070][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.15-12.58.01:074][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.15-12.58.01:075][  0]LogD3D11RHI:     GPU DeviceId: 0x6758 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.15-12.58.01:075][  0]LogWindows: EnumDisplayDevices:
+[2018.08.15-12.58.01:075][  0]LogWindows:    0. 'AMD Radeon HD 6670' (P:1 D:1)
+[2018.08.15-12.58.01:075][  0]LogWindows:    1. 'AMD Radeon HD 6670' (P:0 D:0)
+[2018.08.15-12.58.01:075][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2018.08.15-12.58.01:076][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.08.15-12.58.01:076][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.08.15-12.58.01:076][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2018.08.15-12.58.01:076][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 6670
+[2018.08.15-12.58.01:076][  0]LogD3D11RHI:   Driver Version: Catalyst 15.7.1 (internal:15.200.1062.1004, unified:15.200.1062.1004)
+[2018.08.15-12.58.01:076][  0]LogD3D11RHI:      Driver Date: 8-3-2015
+[2018.08.15-12.58.01:076][  0]LogRHI: Texture pool is 707 MB (70% of 1010 MB)
+[2018.08.15-12.58.01:129][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.08.15-12.58.01:135][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.15-12.58.01:146][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.08.15-12.58.01:146][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Intermediate/Shaders/WorkingDirectory/3588/).
+[2018.08.15-12.58.01:146][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Konstantin/AppData/Local/Temp/UnrealShaderWorkingDir/ABB94CF648C7A4CE464CBCBFB136B059/'.
+[2018.08.15-12.58.01:146][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.15-12.58.03:855][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.15-12.58.03:916][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.15-12.58.03:966][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.15-12.58.04:022][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.15-12.58.04:103][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.15-12.58.04:154][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.15-12.58.04:205][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.15-12.58.04:255][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.15-12.58.04:311][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.15-12.58.04:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.15-12.58.04:429][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.15-12.58.04:478][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.15-12.58.04:527][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.15-12.58.04:577][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.15-12.58.04:626][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.15-12.58.04:724][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.15-12.58.04:725][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.15-12.58.04:759][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.15-12.58.04:889][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.15-12.58.04:916][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.15-12.58.04:969][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.15-12.58.05:018][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.15-12.58.05:067][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.15-12.58.05:125][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.15-12.58.05:125][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.15-12.58.06:448][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.15-12.58.07:559][  0]LogDerivedDataCache: Loaded boot cache 1.11s 93MB C:/Users/Konstantin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.08.15-12.58.07:560][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Konstantin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.08.15-12.58.07:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.15-12.58.07:560][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.15-12.58.07:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.15-12.58.07:560][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.15-12.58.07:581][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.15-12.58.07:593][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Konstantin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.15-12.58.07:605][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.15-12.58.07:605][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.15-12.58.07:694][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.15-12.58.07:694][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.15-12.58.10:521][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.08.15-12.58.10:748][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.15-12.58.10:753][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.08.15-12.58.11:737][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.15-12.58.11:809][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.15-12.58.11:809][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.15-12.58.11:809][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.15-12.58.11:809][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.15-12.58.11:809][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.15-12.58.12:297][  0]LogNetVersion: MultiplayerTest , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1647500180)
+[2018.08.15-12.58.12:507][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.035023 seconds
+[2018.08.15-12.58.12:514][  0]LogUObjectArray: 35832 objects as part of root set at end of initial load.
+[2018.08.15-12.58.12:514][  0]LogUObjectAllocator: 7742864 out of 0 bytes used by permanent object pool.
+[2018.08.15-12.58.12:514][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.15-12.58.30:593][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.15-12.58.30:663][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.15-12.58.31:682][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.08.15-12.58.32:279][  0]SourceControl: Source control is disabled
+[2018.08.15-12.58.34:134][  0]LogOcInput: OculusInput pre-init called
+[2018.08.15-12.58.34:587][  0]LogEngine: Initializing Engine...
+[2018.08.15-12.58.34:589][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.15-12.58.34:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.15-12.58.34:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.15-12.58.35:057][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.15-12.58.35:140][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.15-12.58.35:154][  0]LogInit: FAudioDevice initialized.
+[2018.08.15-12.58.35:399][  0]LogDerivedDataCache: Saved boot cache 0.25s 93MB C:/Users/Konstantin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.08.15-12.58.35:423][  0]LogInit: Texture streaming: Enabled
+[2018.08.15-12.58.35:599][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.15-12.58.35:919][  0]LogInit: Transaction tracking system initialized
+[2018.08.15-12.58.36:283][  0]BlueprintLog: New page: Editor Load
+[2018.08.15-12.58.38:006][  0]LocalizationService: Localization service is disabled
+[2018.08.15-12.58.39:707][  0]LogConsoleResponse: Display: 
+[2018.08.15-12.58.40:534][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.15-12.58.40:535][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.15-12.58.40:535][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.15-12.58.41:494][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/' took 0.03s
+[2018.08.15-12.58.43:223][  0]Cmd: MAP LOAD FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.15-12.58.43:246][  0]LightingResults: New page: Lighting Build
+[2018.08.15-12.58.43:283][  0]MapCheck: New page: Map Check
+[2018.08.15-12.58.43:283][  0]LightingResults: New page: Lighting Build
+[2018.08.15-12.58.43:617][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N'
+[2018.08.15-12.58.43:618][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Gruntling_Glacer/SK_Gruntling_Glacer.SK_Gruntling_Glacer Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.08.15-12.58.43:618][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N' while loading ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/VisualAssets/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_D.uasset.
+[2018.08.15-12.58.43:618][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Gruntling_Glacer/SK_Gruntling_Glacer.SK_Gruntling_Glacer Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.08.15-12.58.43:618][  0]LoadErrors: Error: /Game/VisualAssets/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_D : Can't find file for asset. /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N
+[2018.08.15-12.58.43:618][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N'
+[2018.08.15-12.58.43:618][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Gruntling_Glacer/SK_Gruntling_Glacer.SK_Gruntling_Glacer Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.08.15-12.58.43:618][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N' while loading ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/VisualAssets/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_D.uasset.
+[2018.08.15-12.58.43:618][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Gruntling_Glacer/SK_Gruntling_Glacer.SK_Gruntling_Glacer Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.08.15-12.58.43:618][  0]LoadErrors: Error: /Game/VisualAssets/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_D : Can't find file for asset. /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N
+[2018.08.15-12.58.44:460][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N'
+[2018.08.15-12.58.44:460][  0]LoadErrors: Failed to load /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N.T_Gruntling_Glacer_N Referenced by T_Gruntling_Glacer_D
+[2018.08.15-12.58.44:460][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N' while loading NULL.
+[2018.08.15-12.58.44:460][  0]LoadErrors: Failed to load /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N.T_Gruntling_Glacer_N Referenced by T_Gruntling_Glacer_D
+[2018.08.15-12.58.49:370][  0]LogAIModule: Creating AISystem for world Menu
+[2018.08.15-12.58.49:371][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.15-12.58.49:390][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.15-12.58.49:460][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.141ms to complete.
+[2018.08.15-12.58.49:460][  0]LogFileHelpers: Loading map 'Menu' took 6.236
+[2018.08.15-12.58.49:765][  0]LogCollectionManager: Loaded 0 collections in 0.002037 seconds
+[2018.08.15-12.58.49:839][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Collections/' took 0.01s
+[2018.08.15-12.58.49:839][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Developers/Konstantin/Collections/' took 0.01s
+[2018.08.15-12.58.49:839][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Collections/' took 0.01s
+[2018.08.15-12.58.49:839][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.15-12.58.49:850][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2408 classes and 503 folders.
+[2018.08.15-12.58.49:906][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.08.15-12.58.51:161][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.08.15-12.58.51:291][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.08.15-12.58.51:441][  0]LogSlate: Took 0.030058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.15-12.58.51:448][  0]LogSlate: Took 0.004677 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.15-12.58.51:471][  0]LogSlate: Took 0.017105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.15-12.58.51:659][  0]LogRenderer: Reallocating scene render targets to support 1120x572 Format 9 NumSamples 1 (Frame:1).
+[2018.08.15-12.58.51:980][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.08.15-12.58.51:980][  0]LogLoad: (Engine Initialization) Total time: 59.11 seconds
+[2018.08.15-12.58.51:980][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.15-12.58.51:980][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.08.15-12.58.51:980][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.08.15-12.58.52:011][  0]SourceControl: On branch master
+[2018.08.15-12.58.52:012][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.08.15-12.58.52:012][  0]SourceControl: Changes not staged for commit:
+[2018.08.15-12.58.52:012][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.08.15-12.58.52:012][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.08.15-12.58.52:012][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Pawns/Troll/TrollAB.uasset
+[2018.08.15-12.58.52:012][  0]SourceControl: Untracked files:
+[2018.08.15-12.58.52:012][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.08.15-12.58.52:012][  0]SourceControl: 	Content/Blueprints/Gameplay/Pawns/Giant/
+[2018.08.15-12.58.52:012][  0]SourceControl: 	Intermediate/
+[2018.08.15-12.58.52:012][  0]SourceControl: 	Saved/
+[2018.08.15-12.58.52:012][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.08.15-12.58.52:012][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.15-12.58.52:146][  2]LogAssetRegistry: Asset discovery search completed in 41.6461 seconds
+[2018.08.15-12.58.52:149][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.15-12.58.52:150][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2018.08.15-12.58.53:067][ 99]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.15-12.58.56:094][361]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.15-12.59.04:942][316]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.15-12.59.05:767][316]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.15-12.59.08:428][316]LogAIModule: Creating AISystem for world Map2
+[2018.08.15-12.59.08:569][316]Cmd: MAP LOAD FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Maps/Map2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.15-12.59.08:569][316]LightingResults: New page: Lighting Build
+[2018.08.15-12.59.08:570][316]LoadErrors: New page: Loading map: Map2.umap
+[2018.08.15-12.59.08:576][316]MapCheck: New page: Map Check
+[2018.08.15-12.59.08:576][316]LightingResults: New page: Lighting Build
+[2018.08.15-12.59.08:967][316]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.15-12.59.09:078][316]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.15-12.59.09:155][316]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.129ms to complete.
+[2018.08.15-12.59.09:155][316]LogFileHelpers: Loading map 'Map2' took 0.587
+[2018.08.15-13.01.14:356][157]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N'
+[2018.08.15-13.01.14:356][157]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Troll/SK_Troll_Poison.SK_Troll_Poison Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.08.15-13.01.14:356][157]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N' while loading ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/VisualAssets/Enemy/Enemy_Troll/Textures/T_Troll_D.uasset.
+[2018.08.15-13.01.14:356][157]LoadErrors: Error: /Game/VisualAssets/Enemy/Enemy_Troll/Textures/T_Troll_D : Can't find file for asset. /Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N
+[2018.08.15-13.01.14:357][157]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N'
+[2018.08.15-13.01.14:357][157]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N' while loading ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/VisualAssets/Enemy/Enemy_Troll/Textures/T_Troll_D.uasset.
+[2018.08.15-13.01.14:514][157]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N'
+[2018.08.15-13.01.14:514][157]LoadErrors: Failed to load /Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N.T_Troll_N Referenced by T_Troll_D
+[2018.08.15-13.01.14:514][157]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N' while loading NULL.
+[2018.08.15-13.01.15:588][157]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 113 classes and 0 folders.
+[2018.08.15-13.01.17:445][157]LogSlate: Took 0.017509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.15-13.01.17:946][158]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.15-13.01.20:111][261]LogRenderer: Reallocating scene render targets to support 1200x676 Format 9 NumSamples 1 (Frame:1).
+[2018.08.15-13.01.27:662][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:662][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:664][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:664][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:664][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:664][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:664][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:704][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:704][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:705][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:705][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:705][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:706][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:706][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:706][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:706][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:861][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:862][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:862][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:862][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:862][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:863][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:863][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:863][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:863][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.27:863][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:864][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:864][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:864][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:864][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:864][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:865][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:865][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:865][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:865][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:865][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:879][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:880][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:880][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:880][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:881][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:881][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:881][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:881][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:881][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:881][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.27:882][557]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.32:619][788]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_0)
+[2018.08.15-13.01.32:621][788]LogScript: Warning: Accessed None trying to read property TrollHammer
+	Troll_C /Engine/Transient.World_6:PersistentLevel.Troll_C_0
+	Function /Game/Blueprints/Gameplay/Pawns/Giant/Troll.Troll_C:UserConstructionScript:0017
+[2018.08.15-13.01.32:622][788]LogSkinnedMeshComp: Warning: GetSocketByName(b_MF_Weapon_R): No SkeletalMesh for Component(SkeletalMesh) Actor(Troll_C_1)
+[2018.08.15-13.01.32:622][788]LogScript: Warning: Accessed None trying to read property TrollHammer
+	Troll_C /Engine/Transient.World_5:PersistentLevel.Troll_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Giant/Troll.Troll_C:UserConstructionScript:0017
+[2018.08.15-13.01.32:756][788]LogScript: Warning: Accessed None trying to read property TrollHammer
+	Troll_C /Engine/Transient.World_5:PersistentLevel.Troll_C_1
+	Function /Game/Blueprints/Gameplay/Pawns/Giant/Troll.Troll_C:UserConstructionScript:0017
+[2018.08.15-13.01.33:840][833]BlueprintLog: New page: Compile Troll
+[2018.08.15-13.01.33:941][833]LogBlueprint: Error: [Compiler Troll] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.08.15-13.01.34:188][833]LogBlueprint: Warning: [Compiler Troll] [0221.32] Compile of Troll failed. 1 Fatal Issue(s) 0 Warning(s) [in 347 ms] (/Game/Blueprints/Gameplay/Pawns/Giant/Troll.Troll)
+[2018.08.15-13.01.34:929][851]LogSavePackage: Save=176.23ms
+[2018.08.15-13.01.34:929][851]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Troll4887B7EC49280D8FE8054E858A460F35.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/Giant/Troll.uasset'
+[2018.08.15-13.01.34:932][851]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/Giant/Troll.uasset
+[2018.08.15-13.01.42:133][300]BlueprintLog: New page: Compile Troll
+[2018.08.15-13.01.43:061][326]LogSavePackage: Save=164.66ms
+[2018.08.15-13.01.43:061][326]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Troll24D196564B552C055F43B3A6A5BB56E0.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/Giant/Troll.uasset'
+[2018.08.15-13.01.43:063][326]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/Giant/Troll.uasset
+[2018.08.15-13.01.50:710][ 33]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.15-13.01.52:532][236]SourceControl: On branch master
+[2018.08.15-13.01.52:532][236]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.08.15-13.01.52:532][236]SourceControl: Changes not staged for commit:
+[2018.08.15-13.01.52:532][236]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.08.15-13.01.52:532][236]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.08.15-13.01.52:532][236]SourceControl: 	modified:   Content/Blueprints/Gameplay/Pawns/Troll/TrollAB.uasset
+[2018.08.15-13.01.52:532][236]SourceControl: Untracked files:
+[2018.08.15-13.01.52:532][236]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.08.15-13.01.52:532][236]SourceControl: 	Content/Blueprints/Gameplay/Pawns/Giant/
+[2018.08.15-13.01.52:532][236]SourceControl: 	Intermediate/
+[2018.08.15-13.01.52:532][236]SourceControl: 	Saved/
+[2018.08.15-13.01.52:532][236]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.08.15-13.01.53:043][236]LogMetaData: Removing '/Game/Blueprints/Gameplay/Pawns/Giant/Giant.Giant_C' ref from Metadata '/Game/Blueprints/Gameplay/Pawns/Giant/Troll.PackageMetaData'
+[2018.08.15-13.01.53:043][236]LogMetaData: Removing '/Game/Blueprints/Gameplay/Pawns/Giant/Giant.SKEL_Giant_C' ref from Metadata '/Game/Blueprints/Gameplay/Pawns/Giant/Troll.PackageMetaData'
+[2018.08.15-13.01.53:273][236]LogSavePackage: Save=147.72ms
+[2018.08.15-13.01.53:273][236]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Giant1B4E9256461954A893F535B12520C6DA.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/Giant/Giant.uasset'
+[2018.08.15-13.01.53:276][236]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/Giant/Giant.uasset
+[2018.08.15-13.02.07:043][566]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N'
+[2018.08.15-13.02.07:044][566]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Master_Grunt/SK_Master_Grunt.SK_Master_Grunt Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.08.15-13.02.07:044][566]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N' while loading ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/VisualAssets/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_D.uasset.
+[2018.08.15-13.02.07:044][566]LoadErrors: Error: /Game/VisualAssets/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_D : Can't find file for asset. /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N
+[2018.08.15-13.02.07:044][566]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N'
+[2018.08.15-13.02.07:044][566]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N' while loading ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/VisualAssets/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_D.uasset.
+[2018.08.15-13.02.07:350][566]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N'
+[2018.08.15-13.02.07:350][566]LoadErrors: Failed to load /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N.T_Master_Grunt_N Referenced by T_Master_Grunt_D
+[2018.08.15-13.02.07:351][566]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N' while loading NULL.
+[2018.08.15-13.02.08:030][566]LogAIModule: Creating AISystem for world Map1
+[2018.08.15-13.02.08:111][566]Cmd: MAP LOAD FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Maps/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.15-13.02.08:111][566]LightingResults: New page: Lighting Build
+[2018.08.15-13.02.08:112][566]LoadErrors: New page: Loading map: Map1.umap
+[2018.08.15-13.02.08:164][566]MapCheck: New page: Map Check
+[2018.08.15-13.02.08:164][566]LightingResults: New page: Lighting Build
+[2018.08.15-13.02.08:333][566]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.15-13.02.08:379][566]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.15-13.02.08:471][566]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.009ms to complete.
+[2018.08.15-13.02.08:471][566]LogFileHelpers: Loading map 'Map1' took 0.361
+[2018.08.15-13.02.51:460][ 91]LogEditorViewport: Clicking on Actor (LMB): MasterGrunt_C (MasterGrunt)
+[2018.08.15-13.03.05:718][371]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/SK_Master_Grunt'
+[2018.08.15-13.03.05:719][371]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/SK_Master_Grunt'
+[2018.08.15-13.03.05:719][371]LogUObjectGlobals: Warning: Failed to find object 'SkeletalMesh /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/SK_Master_Grunt.SK_Master_Grunt'
+[2018.08.15-13.03.11:024][656]LogRenderer: Reallocating scene render targets to support 1208x692 Format 9 NumSamples 1 (Frame:1).
+[2018.08.15-13.03.27:053][866]BlueprintLog: New page: Compile MasterGrunt
+[2018.08.15-13.03.36:257][426]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.15-13.03.36:470][426]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.03.36:496][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.15-13.03.36:518][426]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.03.36:518][426]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.15-13.03.36:518][426]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.15-13.03.36:518][426]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.15-13.03.36:518][426]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.08.15-13.03.36:519][426]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.08.15-13.03.36:570][426]PIE: New page: PIE session: Map1 (Aug 16, 2018, 5:03:36 AM)
+[2018.08.15-13.03.36:588][426]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2018.08.15-13.03.36:653][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064429s)
+[2018.08.15-13.03.36:654][426]LogAIModule: Creating AISystem for world Map1
+[2018.08.15-13.03.36:654][426]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2018.08.15-13.03.36:654][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.073096s)
+[2018.08.15-13.03.36:738][426]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.15-13.03.36:751][426]LogInit: FAudioDevice initialized.
+[2018.08.15-13.03.36:890][426]LogLoad: Game class is 'GameplayGameMode_C'
+[2018.08.15-13.03.36:916][426]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2018.08.15-21.03.36
+[2018.08.15-13.03.37:030][426]LogWorld: Bringing up level for play took: 0.115616
+[2018.08.15-13.03.37:266][426]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.08.15-13.03.37:437][426]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 1.41
+[2018.08.15-13.03.37:438][426]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.03.59:132][940]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.03.59:134][940]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2018.08.15-13.03.59:194][940]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.03.59:194][940]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.15-13.03.59:195][940]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.15-13.03.59:195][940]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.15-13.03.59:195][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.15-13.03.59:202][940]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.03.59:274][941]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.08.15-13.03.59:275][941]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.04.25:181][190]BlueprintLog: New page: Compile MasterGrunt
+[2018.08.15-13.04.26:123][193]LogSavePackage: Save=174.43ms
+[2018.08.15-13.04.26:123][193]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MasterGrunt5CDE7A6E44D4C95C0EEFA48310A1657E.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset'
+[2018.08.15-13.04.26:125][193]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset
+[2018.08.15-13.04.38:028][252]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.15-13.04.38:061][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.04.38:061][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.15-13.04.38:062][252]PIE: New page: PIE session: Map1 (Aug 16, 2018, 5:04:38 AM)
+[2018.08.15-13.04.38:063][252]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2018.08.15-13.04.38:069][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006566s)
+[2018.08.15-13.04.38:071][252]LogAIModule: Creating AISystem for world Map1
+[2018.08.15-13.04.38:071][252]LogPlayLevel: PIE: World Init took: (0.001973s)
+[2018.08.15-13.04.38:071][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.008937s)
+[2018.08.15-13.04.38:095][252]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.15-13.04.38:107][252]LogInit: FAudioDevice initialized.
+[2018.08.15-13.04.38:137][252]LogLoad: Game class is 'GameplayGameMode_C'
+[2018.08.15-13.04.38:140][252]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2018.08.15-21.04.38
+[2018.08.15-13.04.38:141][252]LogWorld: Bringing up level for play took: 0.002803
+[2018.08.15-13.04.38:154][252]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 0.126
+[2018.08.15-13.04.38:154][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.05.08:088][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.05.08:089][789]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2018.08.15-13.05.08:124][789]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.05.08:124][789]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.15-13.05.08:126][789]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.15-13.05.08:126][789]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.15-13.05.08:126][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.15-13.05.08:136][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.05.08:198][790]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.08.15-13.05.08:199][790]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.05.40:570][717]BlueprintLog: New page: Compile MasterGrunt
+[2018.08.15-13.05.41:819][745]LogSavePackage: Save=160.25ms
+[2018.08.15-13.05.41:819][745]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MasterGrunt3B260C5F42490EB1C1D08890D3FE0DF8.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset'
+[2018.08.15-13.05.41:822][745]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset
+[2018.08.15-13.05.46:014][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.15-13.05.46:048][ 88]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.05.46:048][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.15-13.05.46:048][ 88]PIE: New page: PIE session: Map1 (Aug 16, 2018, 5:05:46 AM)
+[2018.08.15-13.05.46:049][ 88]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2018.08.15-13.05.46:056][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006706s)
+[2018.08.15-13.05.46:056][ 88]LogAIModule: Creating AISystem for world Map1
+[2018.08.15-13.05.46:057][ 88]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2018.08.15-13.05.46:057][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.008022s)
+[2018.08.15-13.05.46:080][ 88]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.15-13.05.46:092][ 88]LogInit: FAudioDevice initialized.
+[2018.08.15-13.05.46:120][ 88]LogLoad: Game class is 'GameplayGameMode_C'
+[2018.08.15-13.05.46:123][ 88]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2018.08.15-21.05.46
+[2018.08.15-13.05.46:124][ 88]LogWorld: Bringing up level for play took: 0.002796
+[2018.08.15-13.05.46:137][ 88]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 0.108
+[2018.08.15-13.05.46:137][ 88]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.06.07:313][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.06.07:314][586]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2018.08.15-13.06.07:353][586]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.06.07:353][586]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.15-13.06.07:353][586]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.15-13.06.07:353][586]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.15-13.06.07:353][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.15-13.06.07:361][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.06.07:430][587]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.08.15-13.06.07:430][587]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.06.15:962][133]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.08.15-13.06.16:250][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.15-13.06.17:777][133]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2018.08.15-13.06.18:039][134]LogRenderer: Reallocating scene render targets to support 1208x884 Format 9 NumSamples 1 (Frame:1).
+[2018.08.15-13.06.20:587][237]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.08.15-13.06.21:114][237]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.15-13.06.54:284][710]LogSavePackage: Save=12.13ms
+[2018.08.15-13.06.54:284][710]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/ExoGame_MasterGrunt_Attack_RangedD18F10FF492A671FD06FD9A80446BD11.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/VisualAssets/Enemy/Enemy_Master_Grunt/Enemy_Master_Grunt_Animation/ExoGame_MasterGrunt_Attack_Ranged.uasset'
+[2018.08.15-13.06.54:301][710]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/VisualAssets/Enemy/Enemy_Master_Grunt/Enemy_Master_Grunt_Animation/ExoGame_MasterGrunt_Attack_Ranged.uasset
+[2018.08.15-13.07.19:268][302]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.15-13.07.19:286][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.07.19:286][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.15-13.07.19:287][302]PIE: New page: PIE session: Map1 (Aug 16, 2018, 5:07:19 AM)
+[2018.08.15-13.07.19:287][302]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2018.08.15-13.07.19:294][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006949s)
+[2018.08.15-13.07.19:295][302]LogAIModule: Creating AISystem for world Map1
+[2018.08.15-13.07.19:296][302]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2018.08.15-13.07.19:296][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.008447s)
+[2018.08.15-13.07.19:319][302]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.15-13.07.19:330][302]LogInit: FAudioDevice initialized.
+[2018.08.15-13.07.19:362][302]LogLoad: Game class is 'GameplayGameMode_C'
+[2018.08.15-13.07.19:365][302]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2018.08.15-21.07.19
+[2018.08.15-13.07.19:366][302]LogWorld: Bringing up level for play took: 0.002897
+[2018.08.15-13.07.19:379][302]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 -0.651
+[2018.08.15-13.07.19:379][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.08.02:946][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.08.02:947][954]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2018.08.15-13.08.02:985][954]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.08.02:985][954]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.15-13.08.02:985][954]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.15-13.08.02:985][954]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.15-13.08.02:985][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.15-13.08.02:998][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.08.03:051][955]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.08.15-13.08.03:051][955]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.10.21:746][735]BlueprintLog: New page: Compile MasterGrunt
+[2018.08.15-13.10.23:073][750]LogSavePackage: Save=168.74ms
+[2018.08.15-13.10.23:073][750]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MasterGruntFFF5A9DE4057A59EB0321FA8A25B209E.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset'
+[2018.08.15-13.10.23:076][750]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset
+[2018.08.15-13.10.29:998][285]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.15-13.10.30:035][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.10.30:035][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.15-13.10.30:035][285]PIE: New page: PIE session: Map1 (Aug 16, 2018, 5:10:30 AM)
+[2018.08.15-13.10.30:036][285]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2018.08.15-13.10.30:043][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006622s)
+[2018.08.15-13.10.30:044][285]LogAIModule: Creating AISystem for world Map1
+[2018.08.15-13.10.30:044][285]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2018.08.15-13.10.30:044][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.008110s)
+[2018.08.15-13.10.30:067][285]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.15-13.10.30:083][285]LogInit: FAudioDevice initialized.
+[2018.08.15-13.10.30:114][285]LogLoad: Game class is 'GameplayGameMode_C'
+[2018.08.15-13.10.30:117][285]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2018.08.15-21.10.30
+[2018.08.15-13.10.30:118][285]LogWorld: Bringing up level for play took: 0.002833
+[2018.08.15-13.10.30:131][285]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 0.099
+[2018.08.15-13.10.30:131][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.10.35:457][874]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.10.35:457][874]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2018.08.15-13.10.35:497][874]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.10.35:497][874]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.15-13.10.35:498][874]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.15-13.10.35:498][874]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.15-13.10.35:498][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.15-13.10.35:512][874]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.10.35:574][875]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.08.15-13.10.35:574][875]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.10.40:035][125]BlueprintLog: New page: Compile MasterGrunt
+[2018.08.15-13.10.40:984][127]LogSavePackage: Save=151.74ms
+[2018.08.15-13.10.40:984][127]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MasterGruntA98EA6354983568D7DC5E8B22B711298.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset'
+[2018.08.15-13.10.40:986][127]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset
+[2018.08.15-13.10.43:853][253]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.15-13.10.43:876][253]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.10.43:876][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.15-13.10.43:876][253]PIE: New page: PIE session: Map1 (Aug 16, 2018, 5:10:43 AM)
+[2018.08.15-13.10.43:877][253]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2018.08.15-13.10.43:883][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006432s)
+[2018.08.15-13.10.43:884][253]LogAIModule: Creating AISystem for world Map1
+[2018.08.15-13.10.43:884][253]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2018.08.15-13.10.43:884][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.007760s)
+[2018.08.15-13.10.43:912][253]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.15-13.10.43:923][253]LogInit: FAudioDevice initialized.
+[2018.08.15-13.10.43:952][253]LogLoad: Game class is 'GameplayGameMode_C'
+[2018.08.15-13.10.43:955][253]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2018.08.15-21.10.43
+[2018.08.15-13.10.43:956][253]LogWorld: Bringing up level for play took: 0.002808
+[2018.08.15-13.10.43:972][253]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 -0.06
+[2018.08.15-13.10.43:974][253]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.11.14:959][765]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.11.14:960][765]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2018.08.15-13.11.14:998][765]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.11.14:998][765]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.15-13.11.14:998][765]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.15-13.11.14:998][765]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.15-13.11.14:999][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.15-13.11.15:006][765]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.11.15:082][766]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.08.15-13.11.15:082][766]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.11.57:942][957]BlueprintLog: New page: Compile MasterGrunt
+[2018.08.15-13.11.59:155][970]LogSavePackage: Save=153.03ms
+[2018.08.15-13.11.59:155][970]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MasterGrunt835565B14C707D6452664FB9095D272B.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset'
+[2018.08.15-13.11.59:158][970]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset
+[2018.08.15-13.13.06:754][182]BlueprintLog: New page: Compile MGProjectile
+[2018.08.15-13.13.15:715][ 37]BlueprintLog: New page: Compile MGProjectile
+[2018.08.15-13.13.17:284][ 92]LogSavePackage: Save=31.22ms
+[2018.08.15-13.13.17:284][ 92]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MGProjectile5826CD9542BE7F95A55D25B8A705B9E9.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile.uasset'
+[2018.08.15-13.13.17:304][ 92]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile.uasset
+[2018.08.15-13.13.28:787][108]BlueprintLog: New page: Compile MGProjectile
+[2018.08.15-13.13.29:790][119]LogSavePackage: Save=34.21ms
+[2018.08.15-13.13.29:790][119]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MGProjectile4EF5155C4B0BD4178EE7B5A84889C213.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile.uasset'
+[2018.08.15-13.13.29:793][119]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile.uasset
+[2018.08.15-13.14.08:089][285]BlueprintLog: New page: Compile MGProjectile
+[2018.08.15-13.14.09:196][289]LogSavePackage: Save=36.88ms
+[2018.08.15-13.14.09:196][289]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MGProjectile40A042D04655718A747A62B94709C108.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile.uasset'
+[2018.08.15-13.14.09:198][289]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile.uasset
+[2018.08.15-13.14.15:252][715]BlueprintLog: New page: Compile MasterGrunt
+[2018.08.15-13.14.16:620][748]LogSavePackage: Save=152.01ms
+[2018.08.15-13.14.16:620][748]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MasterGruntBE334C3B4D4A5EB18333CD929227D6B9.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset'
+[2018.08.15-13.14.16:622][748]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset
+[2018.08.15-13.14.27:098][659]BlueprintLog: New page: Compile MGProjectile
+[2018.08.15-13.14.28:442][690]LogSavePackage: Save=36.86ms
+[2018.08.15-13.14.28:442][690]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MGProjectileB74A2676410B55BB1667EBB2E40677C1.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile.uasset'
+[2018.08.15-13.14.28:445][690]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile.uasset
+[2018.08.15-13.14.36:980][292]BlueprintLog: New page: Compile MasterGrunt
+[2018.08.15-13.14.38:250][317]LogSavePackage: Save=157.11ms
+[2018.08.15-13.14.38:250][317]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MasterGrunt3043239748E3C552BA77E0839629C24D.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset'
+[2018.08.15-13.14.38:253][317]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset
+[2018.08.15-13.14.48:430][185]BlueprintLog: New page: Compile MasterGrunt
+[2018.08.15-13.14.49:783][208]LogSavePackage: Save=160.09ms
+[2018.08.15-13.14.49:783][208]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MasterGrunt490BE4064BF2BD17EE0D5C901F708524.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset'
+[2018.08.15-13.14.49:785][208]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset
+[2018.08.15-13.15.00:284][183]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.15-13.15.00:321][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.15.00:322][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.15-13.15.00:322][183]PIE: New page: PIE session: Map1 (Aug 16, 2018, 5:15:00 AM)
+[2018.08.15-13.15.00:323][183]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2018.08.15-13.15.00:330][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007074s)
+[2018.08.15-13.15.00:331][183]LogAIModule: Creating AISystem for world Map1
+[2018.08.15-13.15.00:331][183]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2018.08.15-13.15.00:331][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.008424s)
+[2018.08.15-13.15.00:355][183]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.15-13.15.00:368][183]LogInit: FAudioDevice initialized.
+[2018.08.15-13.15.00:397][183]LogLoad: Game class is 'GameplayGameMode_C'
+[2018.08.15-13.15.00:401][183]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2018.08.15-21.15.00
+[2018.08.15-13.15.00:401][183]LogWorld: Bringing up level for play took: 0.002960
+[2018.08.15-13.15.00:414][183]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 0.38
+[2018.08.15-13.15.00:414][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.15.34:768][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.15.34:769][610]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2018.08.15-13.15.34:818][610]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.15.34:818][610]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.15-13.15.34:818][610]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.15-13.15.34:818][610]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.15-13.15.34:819][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.15-13.15.34:826][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.15.34:890][611]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.08.15-13.15.34:890][611]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.15.46:108][404]BlueprintLog: New page: Compile MasterGrunt
+[2018.08.15-13.15.47:445][420]LogSavePackage: Save=156.66ms
+[2018.08.15-13.15.47:445][420]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MasterGrunt33663D384BFAE64A072AB6B17F321D3E.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset'
+[2018.08.15-13.15.47:449][420]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MasterGrunt.uasset
+[2018.08.15-13.15.48:731][507]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.15-13.15.48:766][507]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.15.48:766][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.15-13.15.48:766][507]PIE: New page: PIE session: Map1 (Aug 16, 2018, 5:15:48 AM)
+[2018.08.15-13.15.48:767][507]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2018.08.15-13.15.48:778][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010332s)
+[2018.08.15-13.15.48:779][507]LogAIModule: Creating AISystem for world Map1
+[2018.08.15-13.15.48:780][507]LogPlayLevel: PIE: World Init took: (0.002345s)
+[2018.08.15-13.15.48:781][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.013361s)
+[2018.08.15-13.15.48:806][507]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.15-13.15.48:817][507]LogInit: FAudioDevice initialized.
+[2018.08.15-13.15.48:846][507]LogLoad: Game class is 'GameplayGameMode_C'
+[2018.08.15-13.15.48:849][507]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2018.08.15-21.15.48
+[2018.08.15-13.15.48:850][507]LogWorld: Bringing up level for play took: 0.002998
+[2018.08.15-13.15.48:863][507]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 0.828
+[2018.08.15-13.15.48:863][507]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.16.27:503][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.16.27:503][790]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2018.08.15-13.16.27:542][790]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.16.27:542][790]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.15-13.16.27:542][790]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.15-13.16.27:542][790]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.15-13.16.27:542][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.15-13.16.27:550][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.16.27:615][791]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.08.15-13.16.27:615][791]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.16.46:026][447]BlueprintLog: New page: Compile MGProjectile
+[2018.08.15-13.16.54:291][  6]BlueprintLog: New page: Compile MGProjectile
+[2018.08.15-13.16.55:459][ 26]LogSavePackage: Save=40.68ms
+[2018.08.15-13.16.55:459][ 26]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MGProjectile4CED11B046001C1B33BC82A931A355FB.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile.uasset'
+[2018.08.15-13.16.55:462][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile.uasset
+[2018.08.15-13.16.59:586][210]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.15-13.16.59:609][210]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.16.59:609][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.15-13.16.59:609][210]PIE: New page: PIE session: Map1 (Aug 16, 2018, 5:16:59 AM)
+[2018.08.15-13.16.59:610][210]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2018.08.15-13.16.59:617][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006489s)
+[2018.08.15-13.16.59:617][210]LogAIModule: Creating AISystem for world Map1
+[2018.08.15-13.16.59:618][210]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2018.08.15-13.16.59:618][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.007795s)
+[2018.08.15-13.16.59:641][210]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.15-13.16.59:653][210]LogInit: FAudioDevice initialized.
+[2018.08.15-13.16.59:682][210]LogLoad: Game class is 'GameplayGameMode_C'
+[2018.08.15-13.16.59:685][210]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2018.08.15-21.16.59
+[2018.08.15-13.16.59:686][210]LogWorld: Bringing up level for play took: 0.002833
+[2018.08.15-13.16.59:699][210]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 -0.337
+[2018.08.15-13.16.59:699][210]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.17.15:270][990]LogBlueprintUserMessages: [MGProjectile_C_0] None
+[2018.08.15-13.17.18:072][308]LogBlueprintUserMessages: [MGProjectile_C_1] None
+[2018.08.15-13.17.20:905][628]LogBlueprintUserMessages: [MGProjectile_C_2] None
+[2018.08.15-13.17.25:972][ 32]LogBlueprintUserMessages: [MGProjectile_C_3] None
+[2018.08.15-13.17.28:817][172]LogBlueprintUserMessages: [MGProjectile_C_4] None
+[2018.08.15-13.17.29:960][230]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.17.29:961][230]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2018.08.15-13.17.30:008][230]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.17.30:008][230]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.15-13.17.30:008][230]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.15-13.17.30:009][230]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.15-13.17.30:009][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.15-13.17.30:018][230]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.08.15-13.17.30:093][231]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.08.15-13.17.30:093][231]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.18.36:358][359]LogEditorViewport: Clicking on Actor (LMB): Troll_C (Troll)
+[2018.08.15-13.18.38:274][464]LogSavePackage: Save=248.28ms
+[2018.08.15-13.18.38:274][464]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Map1_Auto10CAFD5A745715FD0E3EA4E8CC87C6583.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Autosaves/Game/Maps/Map1_Auto1.umap'
+[2018.08.15-13.18.38:275][464]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Autosaves/Game/Maps/Map1_Auto1.umap
+[2018.08.15-13.18.38:308][464]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map1' took 0.407
+[2018.08.15-13.18.38:308][464]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.407
+[2018.08.15-13.18.38:346][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile] ([1] browsable assets)...
+[2018.08.15-13.18.38:346][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile]
+[2018.08.15-13.18.38:394][464]LogSavePackage: Save=33.49ms
+[2018.08.15-13.18.38:395][464]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MGProjectile_Auto18E329C0F4B797454CFCC1CB1D650A0E9.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Autosaves/Game/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile_Auto1.uasset'
+[2018.08.15-13.18.38:408][464]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Autosaves/Game/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile_Auto1.uasset
+[2018.08.15-13.18.38:408][464]LogFileHelpers: Auto-saving content packages took 0.092
+[2018.08.15-13.18.53:187][887]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/SK_Troll_Poison'
+[2018.08.15-13.18.53:187][887]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/SK_Troll_Poison'
+[2018.08.15-13.18.53:187][887]LogUObjectGlobals: Warning: Failed to find object 'SkeletalMesh /Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/SK_Troll_Poison.SK_Troll_Poison'
+[2018.08.15-13.20.03:089][101]BlueprintLog: New page: Compile Troll
+[2018.08.15-13.21.10:889][738]LogSlate: Took 0.015709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.08.15-13.21.33:456][827]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.08.15-13.21.33:724][827]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Scud/SK_Gruntling_Scud'
+[2018.08.15-13.21.33:725][827]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Scud/SK_Gruntling_Scud'
+[2018.08.15-13.21.33:725][827]LogUObjectGlobals: Warning: Failed to find object 'SkeletalMesh /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Scud/SK_Gruntling_Scud.SK_Gruntling_Scud'
+[2018.08.15-13.21.45:600][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.08.15-13.22.52:632][828]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2018.08.15-13.22.52:705][828]LogMaterial: Missing cached shader map for material CharM_Gruntling_Scud_C, compiling. 
+[2018.08.15-13.22.53:166][828]LogMaterial: Missing cached shader map for material CharM_Gruntling_Scud_C, compiling. 
+[2018.08.15-13.22.53:390][828]LogMaterial: Missing cached shader map for material CharM_Gruntling_Scud_C, compiling. 
+[2018.08.15-13.22.53:466][828]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.08.15-13.22.53:487][828]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.08.15-13.22.53:525][828]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.08.15-13.22.53:531][828]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.08.15-13.22.53:556][828]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.08.15-13.22.53:562][828]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_8, compiling. 
+[2018.08.15-13.22.57:803][ 77]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.08.15-13.23.02:717][174]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.08.15-13.23.02:717][174]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.08.15-13.23.02:717][174]MaterialEditorStats: Texture samplers: 5/16
+[2018.08.15-13.23.02:717][174]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.08.15-13.24.31:914][640]LogSavePackage: Save=33.54ms
+[2018.08.15-13.24.31:914][640]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/MGProjectile337E195C4D4420D94DE78990C41749D9.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile.uasset'
+[2018.08.15-13.24.31:917][640]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/MasterGrunt/MGProjectile.uasset
+[2018.08.15-13.24.32:147][640]LogSavePackage: Save=175.60ms
+[2018.08.15-13.24.32:147][640]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/TrollE5B10A824044963D528A848787E92A40.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/Troll/Troll.uasset'
+[2018.08.15-13.24.32:149][640]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Blueprints/Gameplay/Pawns/Troll/Troll.uasset
+[2018.08.15-13.24.32:444][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Maps/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.15-13.24.32:690][640]LogSavePackage: Save=207.89ms
+[2018.08.15-13.24.32:690][640]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Map1DD7B748F468EB0E6830914A51D596E46.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Maps/Map1.umap'
+[2018.08.15-13.24.32:693][640]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Maps/Map1.umap
+[2018.08.15-13.24.32:735][640]LogFileHelpers: Saving map 'Map1' took 0.574
+[2018.08.15-13.24.32:805][640]LogSavePackage: Save=16.10ms
+[2018.08.15-13.24.32:805][640]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/SK_Gruntling_Scud204202DC4D513F89C7C4DDAAE4857D9E.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/VisualAssets/Enemy/Enemy_Gruntling_Scud/SK_Gruntling_Scud.uasset'
+[2018.08.15-13.24.32:808][640]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/VisualAssets/Enemy/Enemy_Gruntling_Scud/SK_Gruntling_Scud.uasset
+[2018.08.15-13.24.33:382][640]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.08.15-13.24.33:455][640]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.08.15-13.24.33:916][641]Cmd: QUIT_EDITOR
+[2018.08.15-13.24.34:503][641]LogExit: Preparing to exit.
+[2018.08.15-13.24.35:468][641]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/' was aborted.
+[2018.08.15-13.24.35:702][641]LogExit: Editor shut down
+[2018.08.15-13.24.35:709][641]LogExit: Transaction tracking system shut down
+[2018.08.15-13.24.35:979][641]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.08.15-13.24.35:979][641]LogDirectoryWatcher: A directory notification for '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/' was aborted.
+[2018.08.15-13.24.35:979][641]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.08.15-13.24.35:980][641]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.08.15-13.24.35:980][641]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.08.15-13.24.37:962][641]LogExit: Object subsystem successfully closed.
+[2018.08.15-13.24.39:495][641]LogD3D11RHI: Shutdown
+[2018.08.15-13.24.39:561][641]LogD3D11RHI: CleanupD3DDevice
+[2018.08.15-13.24.40:015][641]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.15-13.24.42:534][641]LogModuleManager: Shutting down and abandoning module TextureEditor (550)
+[2018.08.15-13.24.42:554][641]LogModuleManager: Shutting down and abandoning module MaterialEditor (548)
+[2018.08.15-13.24.42:554][641]LogModuleManager: Shutting down and abandoning module AnimationEditor (546)
+[2018.08.15-13.24.42:554][641]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (544)
+[2018.08.15-13.24.42:554][641]LogModuleManager: Shutting down and abandoning module SkeletonEditor (542)
+[2018.08.15-13.24.42:560][641]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (540)
+[2018.08.15-13.24.42:560][641]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (538)
+[2018.08.15-13.24.42:560][641]LogModuleManager: Shutting down and abandoning module Voice (536)
+[2018.08.15-13.24.42:574][641]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2018.08.15-13.24.42:574][641]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2018.08.15-13.24.42:639][641]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.08.15-13.24.42:639][641]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.08.15-13.24.42:643][641]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.08.15-13.24.42:649][641]LogDirectoryWatcher: A directory notification for 'E:/Tournament/UE_4.17/FeaturePacks/' was aborted.
+[2018.08.15-13.24.42:683][641]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.08.15-13.24.42:683][641]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.08.15-13.24.42:683][641]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.08.15-13.24.42:692][641]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Collections/' was aborted.
+[2018.08.15-13.24.42:692][641]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Content/Developers/Konstantin/Collections/' was aborted.
+[2018.08.15-13.24.42:692][641]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/GameTactics_01/Saved/Collections/' was aborted.
+[2018.08.15-13.24.42:692][641]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.08.15-13.24.42:717][641]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.08.15-13.24.42:717][641]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.08.15-13.24.42:727][641]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.08.15-13.24.42:727][641]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.08.15-13.24.42:727][641]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.08.15-13.24.42:727][641]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.08.15-13.24.42:727][641]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.08.15-13.24.42:727][641]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.08.15-13.24.42:771][641]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.08.15-13.24.42:771][641]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.08.15-13.24.42:771][641]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.08.15-13.24.42:776][641]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.08.15-13.24.42:783][641]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.08.15-13.24.42:818][641]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.08.15-13.24.43:045][641]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.08.15-13.24.43:045][641]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.08.15-13.24.43:045][641]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.08.15-13.24.43:045][641]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.08.15-13.24.43:045][641]LogModuleManager: Shutting down and abandoning module Media (481)
+[2018.08.15-13.24.43:045][641]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (478)
+[2018.08.15-13.24.43:045][641]LogModuleManager: Shutting down and abandoning module CharacterAI (476)
+[2018.08.15-13.24.43:045][641]LogModuleManager: Shutting down and abandoning module AudioCapture (474)
+[2018.08.15-13.24.43:045][641]LogModuleManager: Shutting down and abandoning module SequenceRecorder (473)
+[2018.08.15-13.24.43:057][641]LogModuleManager: Shutting down and abandoning module SmartSnapping (470)
+[2018.08.15-13.24.43:057][641]LogModuleManager: Shutting down and abandoning module SessionServices (468)
+[2018.08.15-13.24.43:057][641]LogModuleManager: Shutting down and abandoning module ViewportSnapping (466)
+[2018.08.15-13.24.43:057][641]LogModuleManager: Shutting down and abandoning module ViewportInteraction (464)
+[2018.08.15-13.24.43:057][641]LogModuleManager: Shutting down and abandoning module ClothPainter (462)
+[2018.08.15-13.24.43:081][641]LogModuleManager: Shutting down and abandoning module LogVisualizer (460)
+[2018.08.15-13.24.43:096][641]LogModuleManager: Shutting down and abandoning module IntroTutorials (458)
+[2018.08.15-13.24.43:133][641]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (457)
+[2018.08.15-13.24.43:151][641]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (454)
+[2018.08.15-13.24.43:156][641]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (452)
+[2018.08.15-13.24.43:156][641]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (450)
+[2018.08.15-13.24.43:156][641]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (449)
+[2018.08.15-13.24.43:238][641]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (446)
+[2018.08.15-13.24.43:238][641]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (444)
+[2018.08.15-13.24.43:238][641]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (442)
+[2018.08.15-13.24.43:238][641]LogModuleManager: Shutting down and abandoning module InputBindingEditor (440)
+[2018.08.15-13.24.43:260][641]LogModuleManager: Shutting down and abandoning module MergeActors (438)
+[2018.08.15-13.24.43:268][641]LogModuleManager: Shutting down and abandoning module SizeMap (436)
+[2018.08.15-13.24.43:268][641]LogModuleManager: Shutting down and abandoning module TreeMap (434)
+[2018.08.15-13.24.43:303][641]LogModuleManager: Shutting down and abandoning module ReferenceViewer (432)
+[2018.08.15-13.24.43:303][641]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (430)
+[2018.08.15-13.24.43:314][641]LogModuleManager: Shutting down and abandoning module LocalizationService (429)
+[2018.08.15-13.24.43:322][641]LogModuleManager: Shutting down and abandoning module HardwareTargeting (426)
+[2018.08.15-13.24.43:322][641]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (424)
+[2018.08.15-13.24.43:332][641]LogModuleManager: Shutting down and abandoning module UndoHistory (422)
+[2018.08.15-13.24.43:332][641]LogModuleManager: Shutting down and abandoning module XmlParser (420)
+[2018.08.15-13.24.43:357][641]LogModuleManager: Shutting down and abandoning module Blutility (418)
+[2018.08.15-13.24.43:357][641]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (416)
+[2018.08.15-13.24.43:357][641]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (415)
+[2018.08.15-13.24.43:358][641]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (412)
+[2018.08.15-13.24.43:358][641]LogModuleManager: Shutting down and abandoning module SettingsEditor (410)
+[2018.08.15-13.24.43:379][641]LogModuleManager: Shutting down and abandoning module ProjectLauncher (408)
+[2018.08.15-13.24.43:385][641]LogModuleManager: Shutting down and abandoning module SessionFrontend (406)
+[2018.08.15-13.24.43:394][641]LogModuleManager: Shutting down and abandoning module ProfilerClient (404)
+[2018.08.15-13.24.43:403][641]LogModuleManager: Shutting down and abandoning module DeviceManager (402)
+[2018.08.15-13.24.43:421][641]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (401)
+[2018.08.15-13.24.43:476][641]LogModuleManager: Shutting down and abandoning module AutomationController (398)
+[2018.08.15-13.24.43:567][641]LogModuleManager: Shutting down and abandoning module AutomationWindow (396)
+[2018.08.15-13.24.43:592][641]LogModuleManager: Shutting down and abandoning module Layers (394)
+[2018.08.15-13.24.43:631][641]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (392)
+[2018.08.15-13.24.43:631][641]LogModuleManager: Shutting down and abandoning module DetailCustomizations (390)
+[2018.08.15-13.24.43:638][641]LogModuleManager: Shutting down and abandoning module PackagesDialog (388)
+[2018.08.15-13.24.43:638][641]LogModuleManager: Shutting down and abandoning module Persona (386)
+[2018.08.15-13.24.43:638][641]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (385)
+[2018.08.15-13.24.43:638][641]LogModuleManager: Shutting down and abandoning module AnimGraph (383)
+[2018.08.15-13.24.43:653][641]LogModuleManager: Shutting down and abandoning module Kismet (380)
+[2018.08.15-13.24.43:667][641]LogModuleManager: Shutting down and abandoning module ClassViewer (378)
+[2018.08.15-13.24.43:669][641]LogModuleManager: Shutting down and abandoning module Toolbox (376)
+[2018.08.15-13.24.43:669][641]LogModuleManager: Shutting down and abandoning module ModuleUI (374)
+[2018.08.15-13.24.43:676][641]LogModuleManager: Shutting down and abandoning module MovieSceneTools (372)
+[2018.08.15-13.24.43:692][641]LogModuleManager: Shutting down and abandoning module OutputLog (370)
+[2018.08.15-13.24.43:693][641]LogModuleManager: Shutting down and abandoning module GammaUI (368)
+[2018.08.15-13.24.43:697][641]LogModuleManager: Shutting down and abandoning module Documentation (366)
+[2018.08.15-13.24.43:697][641]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (364)
+[2018.08.15-13.24.43:697][641]LogModuleManager: Shutting down and abandoning module MovieScene (362)
+[2018.08.15-13.24.43:697][641]LogModuleManager: Shutting down and abandoning module Niagara (360)
+[2018.08.15-13.24.43:697][641]LogModuleManager: Shutting down and abandoning module NiagaraEditor (359)
+[2018.08.15-13.24.43:723][641]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (356)
+[2018.08.15-13.24.43:723][641]LogModuleManager: Shutting down and abandoning module LauncherPlatform (354)
+[2018.08.15-13.24.43:723][641]LogModuleManager: Shutting down and abandoning module AnalyticsET (352)
+[2018.08.15-13.24.43:723][641]LogModuleManager: Shutting down and abandoning module PortalServices (350)
+[2018.08.15-13.24.43:723][641]LogModuleManager: Shutting down and abandoning module PortalRpc (348)
+[2018.08.15-13.24.43:723][641]LogModuleManager: Shutting down and abandoning module MessagingRpc (346)
+[2018.08.15-13.24.43:723][641]LogModuleManager: Shutting down and abandoning module AIModule (344)
+[2018.08.15-13.24.43:723][641]LogModuleManager: Shutting down and abandoning module GameplayDebugger (343)
+[2018.08.15-13.24.43:724][641]LogModuleManager: Shutting down and abandoning module AITestSuite (341)
+[2018.08.15-13.24.43:728][641]LogModuleManager: Shutting down and abandoning module ProfilerService (338)
+[2018.08.15-13.24.43:957][641]LogModuleManager: Shutting down and abandoning module TaskGraph (336)
+[2018.08.15-13.24.43:975][641]LogModuleManager: Shutting down and abandoning module SteamVRController (334)
+[2018.08.15-13.24.43:975][641]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (332)
+[2018.08.15-13.24.43:975][641]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (330)
+[2018.08.15-13.24.43:975][641]LogModuleManager: Shutting down and abandoning module OculusInput (328)
+[2018.08.15-13.24.43:983][641]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (326)
+[2018.08.15-13.24.43:983][641]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (324)
+[2018.08.15-13.24.43:983][641]LogModuleManager: Shutting down and abandoning module CableComponent (322)
+[2018.08.15-13.24.43:990][641]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (320)
+[2018.08.15-13.24.43:990][641]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (318)
+[2018.08.15-13.24.44:024][641]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.08.15-13.24.44:025][641]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.08.15-13.24.44:033][641]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.08.15-13.24.44:033][641]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.08.15-13.24.44:033][641]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.08.15-13.24.44:033][641]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.08.15-13.24.44:033][641]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.08.15-13.24.44:173][641]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.08.15-13.24.44:268][641]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.08.15-13.24.44:268][641]LogModuleManager: Shutting down and abandoning module DesktopPlatform (299)
+[2018.08.15-13.24.44:300][641]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.08.15-13.24.44:300][641]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.08.15-13.24.44:411][641]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.08.15-13.24.44:626][641]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.08.15-13.24.44:685][641]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.08.15-13.24.44:685][641]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.08.15-13.24.44:685][641]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.08.15-13.24.44:685][641]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.08.15-13.24.44:685][641]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.08.15-13.24.44:752][641]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.08.15-13.24.44:792][641]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.08.15-13.24.44:810][641]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.08.15-13.24.45:076][641]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.08.15-13.24.45:076][641]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.08.15-13.24.45:238][641]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.08.15-13.24.45:238][641]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.08.15-13.24.45:238][641]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.08.15-13.24.45:238][641]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.08.15-13.24.45:238][641]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.08.15-13.24.45:238][641]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.08.15-13.24.45:238][641]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.08.15-13.24.45:438][641]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.08.15-13.24.45:538][641]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.08.15-13.24.45:695][641]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.08.15-13.24.45:831][641]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.08.15-13.24.45:831][641]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.08.15-13.24.45:831][641]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.08.15-13.24.46:047][641]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.08.15-13.24.46:047][641]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.08.15-13.24.46:048][641]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.08.15-13.24.46:048][641]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (236)
+[2018.08.15-13.24.46:048][641]LogModuleManager: Shutting down and abandoning module AdvancedSessions (234)
+[2018.08.15-13.24.46:048][641]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2018.08.15-13.24.46:071][641]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2018.08.15-13.24.46:102][641]LogModuleManager: Shutting down and abandoning module WmfMedia (228)
+[2018.08.15-13.24.46:294][641]LogModuleManager: Shutting down and abandoning module PacketHandler (226)
+[2018.08.15-13.24.46:295][641]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (224)
+[2018.08.15-13.24.46:295][641]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (222)
+[2018.08.15-13.24.46:366][641]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2018.08.15-13.24.46:366][641]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2018.08.15-13.24.46:366][641]LogModuleManager: Shutting down and abandoning module MediaAssets (216)
+[2018.08.15-13.24.46:366][641]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.08.15-13.24.46:412][641]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.08.15-13.24.46:450][641]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.08.15-13.24.46:451][641]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.08.15-13.24.46:713][641]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.08.15-13.24.46:713][641]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.08.15-13.24.46:730][641]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.08.15-13.24.46:730][641]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.08.15-13.24.46:889][641]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.08.15-13.24.46:985][641]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.08.15-13.24.47:206][641]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.08.15-13.24.47:207][641]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.08.15-13.24.47:451][641]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.08.15-13.24.47:451][641]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.08.15-13.24.47:453][641]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.08.15-13.24.47:453][641]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.08.15-13.24.47:453][641]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.08.15-13.24.47:453][641]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.08.15-13.24.47:453][641]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.08.15-13.24.47:453][641]LogModuleManager: Shutting down and abandoning module Core (174)
+[2018.08.15-13.24.47:453][641]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2018.08.15-13.24.47:453][641]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2018.08.15-13.24.47:524][641]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2018.08.15-13.24.47:572][641]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2018.08.15-13.24.47:572][641]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (165)
+[2018.08.15-13.24.47:580][641]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (163)
+[2018.08.15-13.24.47:580][641]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2018.08.15-13.24.47:593][641]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2018.08.15-13.24.47:641][641]LogModuleManager: Shutting down and abandoning module LevelSequence (154)
+[2018.08.15-13.24.47:641][641]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (152)
+[2018.08.15-13.24.47:642][641]LogModuleManager: Shutting down and abandoning module DerivedDataCache (150)
+[2018.08.15-13.24.47:648][641]LogDerivedDataCache: Shutdown
+[2018.08.15-13.24.47:678][641]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2018.08.15-13.24.47:678][641]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2018.08.15-13.24.47:697][641]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2018.08.15-13.24.47:720][641]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2018.08.15-13.24.47:741][641]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2018.08.15-13.24.47:766][641]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2018.08.15-13.24.47:812][641]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2018.08.15-13.24.47:812][641]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2018.08.15-13.24.47:812][641]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2018.08.15-13.24.47:834][641]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2018.08.15-13.24.47:882][641]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2018.08.15-13.24.47:882][641]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2018.08.15-13.24.47:882][641]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2018.08.15-13.24.47:882][641]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2018.08.15-13.24.47:882][641]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2018.08.15-13.24.47:882][641]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2018.08.15-13.24.47:882][641]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2018.08.15-13.24.47:882][641]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2018.08.15-13.24.47:882][641]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2018.08.15-13.24.47:882][641]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2018.08.15-13.24.47:882][641]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2018.08.15-13.24.47:882][641]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2018.08.15-13.24.47:882][641]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2018.08.15-13.24.47:882][641]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (93)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (91)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (89)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (87)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.08.15-13.24.47:883][641]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.08.15-13.24.47:909][641]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.08.15-13.24.47:909][641]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2018.08.15-13.24.47:909][641]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2018.08.15-13.24.47:909][641]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.15-13.24.47:909][641]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.15-13.24.47:910][641]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.15-13.24.47:910][641]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.15-13.24.47:910][641]LogOnline: Display: Unloading online subsystem: STEAM
+[2018.08.15-13.24.47:988][641]LogOnline: Display: Unloading online subsystem: NULL
+[2018.08.15-13.24.47:988][641]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.08.15-13.24.48:007][641]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.08.15-13.24.48:007][641]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.15-13.24.48:030][641]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3E213650-4813-1505-DC2C-B3A87007A92A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=b19575cd4c512bae2d0928b74a89dbe6%7Cb5027df129bc43d1b0dba9f66342505d%7Ce65336ce-a652-4926-93d0-de7cfdb38018&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.15-13.24.48:039][641]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.08.15-13.24.48:062][641]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.15-13.24.48:086][641]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.15-13.24.48:086][641]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.15-13.24.48:191][641]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.15-13.24.48:202][641]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.15-13.24.48:202][641]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.15-13.24.48:202][641]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.15-13.24.48:238][641]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.15-13.24.48:262][641]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.15-13.24.48:262][641]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.15-13.24.48:262][641]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.15-13.24.48:262][641]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.15-13.24.48:262][641]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.15-13.24.48:262][641]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.15-13.24.48:270][641]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.15-13.24.48:271][641]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.15-13.24.48:278][641]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.15-13.24.48:278][641]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.15-13.24.48:323][641]LogExit: Exiting.
+[2018.08.15-13.24.48:336][641]Log file closed, 08/15/18 21:24:48
