@@ -1,0 +1,517 @@
+﻿Log file open, 09/05/18 21:16:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MultiplayerTest
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1404320984) SRandInit(-1404320983).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.420247
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.05-13.16.33:349][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.05-13.16.33:349][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.05-13.16.34:380][  0]LogInit: Computer: ИЛЬЯ-ПК
+[2018.09.05-13.16.34:380][  0]LogInit: User: Илья
+[2018.09.05-13.16.34:380][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.09.05-13.16.34:380][  0]LogInit: High frequency timer resolution =2.078193 MHz
+[2018.09.05-13.16.34:381][  0]LogMemory: Memory total: Physical=3.7GB (4GB approx)
+[2018.09.05-13.16.34:528][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.05-13.16.34:528][  0]LogMemory: Process Physical Memory: 277.61 MB used, 277.61 MB peak
+[2018.09.05-13.16.34:528][  0]LogMemory: Process Virtual Memory: 277.11 MB used, 277.11 MB peak
+[2018.09.05-13.16.34:528][  0]LogMemory: Physical Memory: 3114.07 MB used,  652.75 MB free, 3766.81 MB total
+[2018.09.05-13.16.34:528][  0]LogMemory: Virtual Memory: 641.76 MB used,  652.75 MB free, 8388608.00 MB total
+[2018.09.05-13.16.40:925][  0]LogInit: Using OS detected language (ru-RU).
+[2018.09.05-13.16.40:925][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.09.05-13.16.41:183][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.09.05-13.16.41:184][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.09.05-13.16.47:001][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.05-13.16.47:252][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics' (Feature Level 10_0)
+[2018.09.05-13.16.47:252][  0]LogD3D11RHI:       128/0/1627 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.09.05-13.16.47:252][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.05-13.16.47:303][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.05-13.16.47:304][  0]LogD3D11RHI:     GPU DeviceId: 0x46 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.05-13.16.47:304][  0]LogWindows: EnumDisplayDevices:
+[2018.09.05-13.16.47:304][  0]LogWindows:    0. 'Intel(R) HD Graphics' (P:1 D:1)
+[2018.09.05-13.16.47:304][  0]LogWindows:    1. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.09.05-13.16.47:304][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2018.09.05-13.16.47:304][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.09.05-13.16.47:305][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.09.05-13.16.47:305][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2018.09.05-13.16.47:305][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics
+[2018.09.05-13.16.47:305][  0]LogD3D11RHI:   Driver Version: 8.15.10.2202 (internal:8.15.10.2202, unified:8.15.10.2202)
+[2018.09.05-13.16.47:305][  0]LogD3D11RHI:      Driver Date: 8-25-2010
+[2018.09.05-13.16.47:305][  0]LogRHI: Texture pool is 659 MB (70% of 941 MB)
+[2018.09.05-13.16.47:333][  0]LogD3D11RHI: Async texture creation disabled: no driver support
+[2018.09.05-13.16.48:379][  0]LogD3D11RHI: GPU Timing Frequency: 1.000000 (Debug: 3 0)
+[2018.09.05-13.16.48:585][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (../../../../../../GameTactics_01/Intermediate/Shaders/WorkingDirectory/10624/).
+[2018.09.05-13.16.48:585][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Илья/AppData/Local/Temp/UnrealShaderWorkingDir/B97AB0BB430AF6CDE133CAA9FE053B0B/'.
+[2018.09.05-13.16.48:623][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.05-13.17.12:144][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.05-13.17.12:335][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.05-13.17.12:559][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.05-13.17.12:836][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.05-13.17.13:050][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.05-13.17.13:247][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.05-13.17.13:411][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.05-13.17.13:558][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.05-13.17.13:683][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.05-13.17.13:884][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-13.17.14:121][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.05-13.17.14:336][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.05-13.17.14:496][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.05-13.17.14:620][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.05-13.17.14:764][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.05-13.17.15:106][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.05-13.17.15:107][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.05-13.17.15:350][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.05-13.17.15:679][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.05-13.17.15:775][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.05-13.17.15:901][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.05-13.17.16:063][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.05-13.17.16:194][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.05-13.17.16:356][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.05-13.17.16:356][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.05-13.17.20:054][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.05-13.17.28:176][  0]LogDerivedDataCache: Loaded boot cache 8.12s 89MB C:/Users/Илья/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.09.05-13.17.28:176][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Илья/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.09.05-13.17.28:177][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GameTactics_01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.05-13.17.28:177][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.05-13.17.28:177][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GameTactics_01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.05-13.17.28:177][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.05-13.17.29:106][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.05-13.17.30:659][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Илья/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.05-13.17.33:557][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2018.09.05-13.17.35:802][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.05-13.17.35:930][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.05-13.17.35:957][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.05-13.17.57:874][  0]LogAssetRegistry: FAssetRegistry took 0.1580 seconds to start up
+[2018.09.05-13.18.02:313][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.05-13.18.03:310][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.09.05-13.18.16:338][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.05-13.18.16:793][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.05-13.18.16:928][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.05-13.18.16:928][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.05-13.18.16:928][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.05-13.18.16:928][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.05-13.18.38:785][  0]LogNetVersion: MultiplayerTest , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1647500180)
+[2018.09.05-13.18.42:152][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.135367 seconds
+[2018.09.05-13.18.42:185][  0]LogUObjectArray: 35832 objects as part of root set at end of initial load.
+[2018.09.05-13.18.42:186][  0]LogUObjectAllocator: 7742864 out of 0 bytes used by permanent object pool.
+[2018.09.05-13.18.42:211][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.05-13.19.32:357][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.05-13.19.32:479][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.05-13.19.38:401][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.09.05-13.19.41:155][  0]SourceControl: Source control is disabled
+[2018.09.05-13.19.50:992][  0]LogOcInput: OculusInput pre-init called
+[2018.09.05-13.19.53:854][  0]LogEngine: Initializing Engine...
+[2018.09.05-13.19.53:998][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.05-13.20.01:985][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.05-13.20.02:049][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.060 s
+[2018.09.05-13.20.06:419][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.05-13.20.07:343][  0]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.05-13.20.07:853][  0]LogInit: FAudioDevice initialized.
+[2018.09.05-13.20.11:018][  0]LogDerivedDataCache: Saved boot cache 3.15s 89MB C:/Users/Илья/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.09.05-13.20.11:065][  0]LogInit: Texture streaming: Enabled
+[2018.09.05-13.20.14:071][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.05-13.20.16:813][  0]LogInit: Transaction tracking system initialized
+[2018.09.05-13.20.20:567][  0]BlueprintLog: New page: Editor Load
+[2018.09.05-13.20.28:567][  0]LocalizationService: Localization service is disabled
+[2018.09.05-13.20.34:130][  0]LogConsoleResponse: Display: 
+[2018.09.05-13.20.39:625][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.05-13.20.39:655][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.05-13.20.39:745][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.05-13.20.52:105][  0]Cmd: MAP LOAD FILE="../../../../../../GameTactics_01/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2018.09.05-13.20.52:485][  0]LightingResults: New page: Lighting Build
+[2018.09.05-13.20.53:748][  0]LogFileCache: Scanning file cache for directory 'C:/GameTactics_01/Content/' took 14.30s
+[2018.09.05-13.20.53:748][  0]MapCheck: New page: Map Check
+[2018.09.05-13.20.53:748][  0]LightingResults: New page: Lighting Build
+[2018.09.05-13.21.21:635][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N'
+[2018.09.05-13.21.21:635][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Gruntling_Glacer/SK_Gruntling_Glacer.SK_Gruntling_Glacer Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.21:636][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N' while loading ../../../../../../GameTactics_01/Content/VisualAssets/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_D.uasset.
+[2018.09.05-13.21.21:636][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Gruntling_Glacer/SK_Gruntling_Glacer.SK_Gruntling_Glacer Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.21:636][  0]LoadErrors: Error: /Game/VisualAssets/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_D : Can't find file for asset. /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N
+[2018.09.05-13.21.21:637][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N'
+[2018.09.05-13.21.21:637][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Gruntling_Glacer/SK_Gruntling_Glacer.SK_Gruntling_Glacer Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.21:637][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N' while loading ../../../../../../GameTactics_01/Content/VisualAssets/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_D.uasset.
+[2018.09.05-13.21.21:637][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Gruntling_Glacer/SK_Gruntling_Glacer.SK_Gruntling_Glacer Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.21:637][  0]LoadErrors: Error: /Game/VisualAssets/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_D : Can't find file for asset. /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N
+[2018.09.05-13.21.37:288][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N'
+[2018.09.05-13.21.37:288][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Master_Grunt/SK_Master_Grunt.SK_Master_Grunt Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.37:288][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N' while loading ../../../../../../GameTactics_01/Content/VisualAssets/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_D.uasset.
+[2018.09.05-13.21.37:288][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Master_Grunt/SK_Master_Grunt.SK_Master_Grunt Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.37:289][  0]LoadErrors: Error: /Game/VisualAssets/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_D : Can't find file for asset. /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N
+[2018.09.05-13.21.37:289][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N'
+[2018.09.05-13.21.37:289][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Master_Grunt/SK_Master_Grunt.SK_Master_Grunt Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.37:289][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N' while loading ../../../../../../GameTactics_01/Content/VisualAssets/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_D.uasset.
+[2018.09.05-13.21.37:289][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Master_Grunt/SK_Master_Grunt.SK_Master_Grunt Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.37:289][  0]LoadErrors: Error: /Game/VisualAssets/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_D : Can't find file for asset. /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N
+[2018.09.05-13.21.44:194][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_N'
+[2018.09.05-13.21.44:194][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Gruntling_Guardian/SK_Gruntling_Guardian.SK_Gruntling_Guardian Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.44:194][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_N' while loading ../../../../../../GameTactics_01/Content/VisualAssets/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_D.uasset.
+[2018.09.05-13.21.44:194][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Gruntling_Guardian/SK_Gruntling_Guardian.SK_Gruntling_Guardian Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.44:194][  0]LoadErrors: Error: /Game/VisualAssets/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_D : Can't find file for asset. /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_N
+[2018.09.05-13.21.44:195][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_N'
+[2018.09.05-13.21.44:195][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Gruntling_Guardian/SK_Gruntling_Guardian.SK_Gruntling_Guardian Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.44:195][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_N' while loading ../../../../../../GameTactics_01/Content/VisualAssets/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_D.uasset.
+[2018.09.05-13.21.44:195][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Gruntling_Guardian/SK_Gruntling_Guardian.SK_Gruntling_Guardian Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.44:195][  0]LoadErrors: Error: /Game/VisualAssets/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_D : Can't find file for asset. /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_N
+[2018.09.05-13.21.47:317][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N'
+[2018.09.05-13.21.47:317][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Troll/SK_Troll_Poison.SK_Troll_Poison Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.47:318][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N' while loading ../../../../../../GameTactics_01/Content/VisualAssets/Enemy/Enemy_Troll/Textures/T_Troll_D.uasset.
+[2018.09.05-13.21.47:318][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Troll/SK_Troll_Poison.SK_Troll_Poison Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.47:318][  0]LoadErrors: Error: /Game/VisualAssets/Enemy/Enemy_Troll/Textures/T_Troll_D : Can't find file for asset. /Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N
+[2018.09.05-13.21.47:318][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N'
+[2018.09.05-13.21.47:319][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Troll/SK_Troll_Poison.SK_Troll_Poison Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.47:319][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N' while loading ../../../../../../GameTactics_01/Content/VisualAssets/Enemy/Enemy_Troll/Textures/T_Troll_D.uasset.
+[2018.09.05-13.21.47:319][  0]LoadErrors: Failed to load /Game/VisualAssets/Enemy/Enemy_Troll/SK_Troll_Poison.SK_Troll_Poison Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.09.05-13.21.47:319][  0]LoadErrors: Error: /Game/VisualAssets/Enemy/Enemy_Troll/Textures/T_Troll_D : Can't find file for asset. /Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N
+[2018.09.05-13.21.56:562][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N'
+[2018.09.05-13.21.56:562][  0]LoadErrors: Failed to load /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N.T_Gruntling_Glacer_N Referenced by T_Gruntling_Glacer_D
+[2018.09.05-13.21.56:563][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N' while loading NULL.
+[2018.09.05-13.21.56:564][  0]LoadErrors: Failed to load /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/Textures/T_Gruntling_Glacer_N.T_Gruntling_Glacer_N Referenced by T_Gruntling_Glacer_D
+[2018.09.05-13.21.56:640][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N'
+[2018.09.05-13.21.56:640][  0]LoadErrors: Failed to load /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N.T_Master_Grunt_N Referenced by T_Master_Grunt_D
+[2018.09.05-13.21.56:640][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N' while loading NULL.
+[2018.09.05-13.21.56:640][  0]LoadErrors: Failed to load /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_N.T_Master_Grunt_N Referenced by T_Master_Grunt_D
+[2018.09.05-13.21.56:994][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_N'
+[2018.09.05-13.21.56:994][  0]LoadErrors: Failed to load /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_N.T_Gruntling_Guardian_N Referenced by T_Gruntling_Guardian_D
+[2018.09.05-13.21.56:994][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_N' while loading NULL.
+[2018.09.05-13.21.56:994][  0]LoadErrors: Failed to load /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_N.T_Gruntling_Guardian_N Referenced by T_Gruntling_Guardian_D
+[2018.09.05-13.21.57:008][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N'
+[2018.09.05-13.21.57:009][  0]LoadErrors: Failed to load /Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N.T_Troll_N Referenced by T_Troll_D
+[2018.09.05-13.21.57:009][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N' while loading NULL.
+[2018.09.05-13.21.57:009][  0]LoadErrors: Failed to load /Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Textures/T_Troll_N.T_Troll_N Referenced by T_Troll_D
+[2018.09.05-13.22.59:982][  0]LogAIModule: Creating AISystem for world Menu
+[2018.09.05-13.23.03:996][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.05-13.23.07:546][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.05-13.23.22:913][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 15,366.465ms to complete.
+[2018.09.05-13.23.23:344][  0]LogFileHelpers: Loading map 'Menu' took 151.084
+[2018.09.05-13.23.54:491][  0]LogCollectionManager: Loaded 0 collections in 0.002808 seconds
+[2018.09.05-13.24.07:090][  0]LogFileCache: Scanning file cache for directory 'C:/GameTactics_01/Saved/Collections/' took 0.01s
+[2018.09.05-13.24.07:090][  0]LogFileCache: Scanning file cache for directory 'C:/GameTactics_01/Content/Developers/Илья/Collections/' took 0.00s
+[2018.09.05-13.24.07:090][  0]LogFileCache: Scanning file cache for directory 'C:/GameTactics_01/Content/Collections/' took 0.00s
+[2018.09.05-13.24.07:090][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.05-13.24.07:262][  0]LogContentBrowser: Native class hierarchy populated in 0.1303 seconds. Added 2408 classes and 503 folders.
+[2018.09.05-13.24.08:070][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2018.09.05-13.24.13:216][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.09.05-13.24.18:447][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0040 seconds. Added 1 classes and 2 folders.
+[2018.09.05-13.24.22:686][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0023 seconds. Added 1 classes and 2 folders.
+[2018.09.05-13.24.22:688][  0]LogLoad: (Engine Initialization) Total time: 490.97 seconds
+[2018.09.05-13.24.22:688][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.05-13.24.22:860][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.09.05-13.24.25:409][  0]SourceControl: On branch master
+[2018.09.05-13.24.25:409][  0]SourceControl: Your branch is ahead of 'origin/master' by 2 commits.
+[2018.09.05-13.24.25:409][  0]SourceControl:   (use "git push" to publish your local commits)
+[2018.09.05-13.24.25:409][  0]SourceControl: Changes not staged for commit:
+[2018.09.05-13.24.25:409][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.09.05-13.24.25:409][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.09.05-13.24.25:409][  0]SourceControl: 	modified:   Content/InfinityBladeGrassLands/Maps/Overview.umap
+[2018.09.05-13.24.25:454][  0]SourceControl: 	modified:   Content/Maps/Map2.umap
+[2018.09.05-13.24.25:454][  0]SourceControl: 	modified:   Content/Maps/Map2_BuiltData.uasset
+[2018.09.05-13.24.25:455][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.09.05-13.24.25:455][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2018.09.05-13.24.25:455][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2018.09.05-13.24.25:455][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-02F1D06044558ED09AD3D29C28C03F9C/CrashReportClient.ini
+[2018.09.05-13.24.25:455][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-36C73E5747820FCF538261ACBEDCC691/CrashReportClient.ini
+[2018.09.05-13.24.25:455][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-5F8216A54A5AA61773449D9BF30B2D37/CrashReportClient.ini
+[2018.09.05-13.24.25:455][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-65256FB84E44C3A224FC36A468940E6B/CrashReportClient.ini
+[2018.09.05-13.24.25:455][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-6F8008FD48EFEE2065AD4CBB0A8A0ED0/CrashReportClient.ini
+[2018.09.05-13.24.25:455][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-78AF4B364561AE9171701980CD78E0EE/CrashReportClient.ini
+[2018.09.05-13.24.25:455][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-B7C595024FB9F53A7F2B8D83EC34A3AF/CrashReportClient.ini
+[2018.09.05-13.24.25:455][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-D39820EE40A75EBB9A26C8AB71555F68/CrashReportClient.ini
+[2018.09.05-13.24.25:455][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2018.09.05-13.24.25:455][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.09.05-13.24.25:455][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2018.09.05-13.24.25:455][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest-backup-2018.08.15-07.58.02.log
+[2018.09.05-13.24.25:455][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest-backup-2018.08.15-20.12.10.log
+[2018.09.05-13.24.25:455][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest-backup-2018.08.16-01.14.32.log
+[2018.09.05-13.24.25:455][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest-backup-2018.08.16-21.38.18.log
+[2018.09.05-13.24.25:455][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest-backup-2018.08.16-21.46.54.log
+[2018.09.05-13.24.25:455][  0]SourceControl: 	modified:   Saved/Logs/MultiplayerTest.log
+[2018.09.05-13.24.25:455][  0]SourceControl: 	modified:   Saved/Logs/MultiplayerTest_2.log
+[2018.09.05-13.24.25:456][  0]SourceControl: Untracked files:
+[2018.09.05-13.24.25:456][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.09.05-13.24.25:456][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Boiler_02.uasset
+[2018.09.05-13.24.25:456][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Boiler_03.uasset
+[2018.09.05-13.24.25:456][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Boiler_04.uasset
+[2018.09.05-13.24.25:456][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Boiler_05.uasset
+[2018.09.05-13.24.25:456][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_ChainsA.uasset
+[2018.09.05-13.24.25:456][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_ChainsB.uasset
+[2018.09.05-13.24.25:456][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_ChainsC.uasset
+[2018.09.05-13.24.25:456][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_ChainsD.uasset
+[2018.09.05-13.24.25:456][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_ChainsE.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_ChainsF.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_ChainsG.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_ChainsH.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Chest_Bottom.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Chest_Lock.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Chest_Top.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Coal_Box.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Face.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_FaceChunk1.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_FaceChunk2.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_FaceChunk3.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_FaceChunk4.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_FaceChunk5.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Facesides.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_FirePit.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Flagpole.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Floor.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_FloorBitA.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_FloorBitB.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_FloorBitC.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_FloorGrill.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Floor_Rock01.uasset
+[2018.09.05-13.24.25:457][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Floor_Rock02.uasset
+[2018.09.05-13.24.25:458][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Floor_Rock03.uasset
+[2018.09.05-13.24.25:458][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Forgemaster_Ironbar.uasset
+[2018.09.05-13.24.25:458][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Hammer_1.uasset
+[2018.09.05-13.24.25:458][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Ingots_1.uasset
+[2018.09.05-13.24.25:458][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_MapTable.uasset
+[2018.09.05-13.24.25:458][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_MapTable_Candles.uasset
+[2018.09.05-13.24.25:458][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_MapTable_Cloth.uasset
+[2018.09.05-13.24.25:458][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Pebbles_1.uasset
+[2018.09.05-13.24.25:458][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Sharpening_Stone.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Stool.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Sword3.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Sword4.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Swords1.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Swords2.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Table.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Table_1.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Table_2.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Table_Tools_1.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Table_Tools_2.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Tools_1.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Tools_2.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Tools_3.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Weapon_Rack_1.uasset
+[2018.09.05-13.24.25:460][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Weapon_Rack_1_Broken.uasset
+[2018.09.05-13.24.25:461][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Weapon_Rack_2.uasset
+[2018.09.05-13.24.25:461][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/Textures/
+[2018.09.05-13.24.25:461][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge_Damaged/
+[2018.09.05-13.24.25:461][  0]SourceControl: 	Content/InfinityBladeFireLands/Maps/
+[2018.09.05-13.24.25:461][  0]SourceControl: 	Saved/Autosaves/Game/InfinityBladeFireLands/
+[2018.09.05-13.24.25:461][  0]SourceControl: 	Saved/Autosaves/Game/InfinityBladeGrassLands/
+[2018.09.05-13.24.25:461][  0]SourceControl: 	Saved/Backup/Map2_2018-09-02-21-43-52.umap
+[2018.09.05-13.24.25:461][  0]SourceControl: 	Saved/Backup/Map2_2018-09-02-22-12-28.umap
+[2018.09.05-13.24.25:461][  0]SourceControl: 	Saved/Backup/Map2_2018-09-02-22-25-47.umap
+[2018.09.05-13.24.25:461][  0]SourceControl: 	Saved/Backup/Map2_BuiltData_2018-09-02-21-43-53.uasset
+[2018.09.05-13.24.25:461][  0]SourceControl: 	Saved/Backup/Overview_2018-09-02-22-33-08.umap
+[2018.09.05-13.24.25:461][  0]SourceControl: 	Saved/Backup/Overview_2018-09-02-22-44-57.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-02-22-58-34.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-02-23-03-42.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-02-23-13-40.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-02-23-23-39.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-02-23-40-18.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-02-23-50-12.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-00-21-52.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-00-30-03.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-00-43-40.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-00-53-32.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-01-03-32.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-01-12-42.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-01-25-39.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-01-31-02.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-01-38-56.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-01-44-39.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-01-55-48.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-02-00-51.umap
+[2018.09.05-13.24.25:480][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-02-06-42.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-02-16-26.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-02-23-29.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-02-39-24.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-02-49-26.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-03-03-01.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-03-13-42-35.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-15-40-28.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-15-47-39.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-15-52-51.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-15-58-33.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-16-06-27.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-16-11-32.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-16-16-45.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-16-24-28.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-16-34-31.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-16-48-01.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-16-54-48.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-17-08-59.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-17-19-04.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-17-33-02.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-17-42-59.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-19-26-59.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-19-43-25.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-19-48-41.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-19-54-32.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-20-02-24.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-20-12-27.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-20-18-04.umap
+[2018.09.05-13.24.25:481][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-20-28-27.umap
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-20-47-39.umap
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-21-01-26.umap
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-21-14-33.umap
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-21-21-54.umap
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-21-26-57.umap
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-21-32-02.umap
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-21-42-53.umap
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-21-57-30.umap
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-22-07-31.umap
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-22-31-43.umap
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-22-45-27.umap
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Backup/Overview_2018-09-04-22-56-22.umap
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-2FFFA8144F3589207172389AE731318A/
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-C28FCFB04057AC8C332EF6AF3BBE5584/
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-EB108ED342B09FCD29E8B5B3E25173C5/
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Config/WorldState/1988390221.json
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Config/WorldState/2832451746.json
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-2FFFA8144F3589207172389AE731318A_0000/
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-4336E8D6474CF6B8948ED2B1D599C82A_0000/
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-CE82D05742952B0164A5179869F6363B_0000/
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-EB108ED342B09FCD29E8B5B3E25173C5_0000/
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Logs/MultiplayerTest-backup-2018.09.02-18.58.06.log
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Logs/MultiplayerTest-backup-2018.09.02-21.19.04.log
+[2018.09.05-13.24.25:482][  0]SourceControl: 	Saved/Logs/MultiplayerTest-backup-2018.09.04-14.29.20.log
+[2018.09.05-13.24.25:483][  0]SourceControl: 	Saved/Logs/MultiplayerTest-backup-2018.09.05-21.16.24.log
+[2018.09.05-13.24.25:483][  0]SourceControl: 	Saved/Logs/MultiplayerTest_2-backup-2018.09.04-14.30.12.log
+[2018.09.05-13.24.25:483][  0]SourceControl: 	plugins/
+[2018.09.05-13.24.25:483][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.09.05-13.24.25:543][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.09.05-13.24.26:875][  0]LogSlate: Took 0.057346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.05-13.24.27:091][  0]LogSlate: Took 0.021575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.05-13.24.27:445][  0]LogSlate: Took 0.134943 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.05-13.24.30:899][  0]LogRenderer: Reallocating scene render targets to support 808x592 Format 9 NumSamples 1 (Frame:1).
+[2018.09.05-13.24.39:073][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.491 s
+[2018.09.05-13.24.39:073][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.05-13.24.39:073][  0]LogOutputDevice: Error: 
+[2018.09.05-13.24.39:073][  0]LogOutputDevice: Error: Ensure condition failed: CurrentDepthTexture [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Commands.cpp] [Line: 789]
+[2018.09.05-13.24.39:073][  0]LogOutputDevice: Error: 
+[2018.09.05-13.24.39:073][  0]LogOutputDevice: Error: Stack: 
+[2018.09.05-13.24.39:073][  0]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CBCA3E36
+[2018.09.05-13.24.39:073][  0]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CBA2C2D2
+[2018.09.05-13.24.39:073][  0]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CBA44746
+[2018.09.05-13.24.39:073][  0]LogOutputDevice: Error: UE4Editor-D3D11RHI.dll!0x00000000C02B88AD
+[2018.09.05-13.24.39:073][  0]LogOutputDevice: Error: UE4Editor-D3D11RHI.dll!0x00000000C02A9B74
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: UE4Editor-D3D11RHI.dll!0x00000000C02A9CBC
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: UE4Editor-D3D11RHI.dll!0x00000000C02A9BD5
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: UE4Editor-D3D11RHI.dll!0x00000000C0273AA1
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: UE4Editor-D3D11RHI.dll!0x00000000C029CA86
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000CD8CC6E5
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000CD53219E
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000CDA51B95
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000CDA30E06
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CB8F24F5
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CB8F2ADA
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: UE4Editor-RenderCore.dll!0x00000000F6111FB1
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: UE4Editor-RenderCore.dll!0x00000000F6113076
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CBCA0EA8
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CBC970AC
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: kernel32.dll!0x00000000770A652D
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: ntdll.dll!0x000000007779C521
+[2018.09.05-13.24.39:074][  0]LogOutputDevice: Error: 
+[2018.09.05-13.24.39:074][  0]LogStats:                SubmitErrorReport -  0.000 s
